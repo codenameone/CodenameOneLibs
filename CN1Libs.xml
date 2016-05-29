@@ -1,23 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-	<plugin fileName='AdmobFullScreen.cn1lib'>
-                 <name>Admob Fullscreen Ads</name>
-                 <description>Admob Fullscreen Ads library, supports iOS and Android</description>
-                 <link>https://github.com/chen-fishbein/admobfullscreen-codenameone</link>
-                 <version>1</version>
-                 <contributed>Ram (creator of yhomework)</contributed>
-	</plugin>
-	<plugin fileName='CN1StartApp.cn1lib'>
-                 <name>StartApp Fullscreen Ads</name>
-                 <description>StartApp Fullscreen Ads library, supports iOS and Android</description>
-                 <link>https://github.com/chen-fishbein/startapp-codenameone</link>
-                 <version>1</version>
-                 <contributed>CodenameOne</contributed>
-	</plugin>
-	<plugin fileName='CN1CircleProgress.cn1lib'>
-                 <name>Circle Progress</name>
-                 <description>Circle Progress Components</description>
-                 <link>https://github.com/chen-fishbein/CN1CircleProgress</link>
-                 <version>1</version>
-                 <contributed>CodenameOne</contributed>
-	</plugin>
+    <plugin fileName="AdmobFullScreen.cn1lib">
+        <name>Admob Fullscreen Ads</name>
+        <description>Admob Fullscreen Ads library, supports iOS and Android</description>
+        <link>https://github.com/chen-fishbein/admobfullscreen-codenameone</link>
+        <version>1</version>
+        <contributed>Ram (creator of yhomework)</contributed>
+    </plugin>
+    <plugin fileName="CN1StartApp.cn1lib">
+        <name>StartApp Fullscreen Ads</name>
+        <description>StartApp Fullscreen Ads library, supports iOS and Android</description>
+        <link>https://github.com/chen-fishbein/startapp-codenameone</link>
+        <version>1</version>
+        <contributed>CodenameOne</contributed>
+    </plugin>
+    <plugin fileName="CN1CircleProgress.cn1lib">
+        <name>Circle Progress</name>
+        <description>Circle Progress Components</description>
+        <link>https://github.com/chen-fishbein/CN1CircleProgress</link>
+        <version>1</version>
+        <contributed>CodenameOne</contributed>
+    </plugin>
 </plugins>
