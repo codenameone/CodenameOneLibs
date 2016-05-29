@@ -1,24 +1,191 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-    <plugin fileName="AdmobFullScreen.cn1lib">
-        <name>Admob Fullscreen Ads</name>
-        <description>Admob Fullscreen Ads library, supports iOS and Android</description>
-        <link>https://github.com/chen-fishbein/admobfullscreen-codenameone</link>
-        <version>1</version>
-        <contributed>Ram (creator of yhomework)</contributed>
-    </plugin>
-    <plugin fileName="CN1StartApp.cn1lib">
-        <name>StartApp Fullscreen Ads</name>
-        <description>StartApp Fullscreen Ads library, supports iOS and Android</description>
-        <link>https://github.com/chen-fishbein/startapp-codenameone</link>
-        <version>1</version>
-        <contributed>CodenameOne</contributed>
-    </plugin>
-    <plugin fileName="CN1CircleProgress.cn1lib">
-        <name>Circle Progress</name>
-        <description>Circle Progress Components</description>
-        <link>https://github.com/chen-fishbein/CN1CircleProgress</link>
-        <version>1</version>
-        <contributed>CodenameOne</contributed>
-    </plugin>
+	<plugin fileName="AdmobFullScreen.cn1lib">
+                 <name>Admob Fullscreen Ads</name>
+                 <description>Admob Fullscreen Ads library, supports iOS and Android</description>
+                 <link>https://github.com/chen-fishbein/admobfullscreen-codenameone</link>
+                 <version>1</version>
+                 <contributed>Ram (creator of yhomework)</contributed>
+	</plugin>
+	<plugin fileName="CN1StartApp.cn1lib">
+                 <name>StartApp Fullscreen Ads</name>
+                 <description>StartApp Fullscreen Ads library, supports iOS and Android</description>
+                 <link>https://github.com/chen-fishbein/startapp-codenameone</link>
+                 <version>1</version>
+                 <contributed>CodenameOne</contributed>
+	</plugin>
+	<plugin fileName="CN1CircleProgress.cn1lib">
+                 <name>Circle Progress</name>
+                 <description>Circle Progress Components</description>
+                 <link>https://github.com/chen-fishbein/CN1CircleProgress</link>
+                 <version>1</version>
+                 <contributed>CodenameOne</contributed>
+	</plugin>
+	<plugin fileName="CN1DataAccess.cn1lib">
+                 <name>Codename One Data Access Library</name>
+                 <description>Provides a Data access layer for SQLite databases in Codename One.</description>
+                 <link>https://github.com/shannah/cn1-data-access-lib</link>
+                 <version>1</version>
+                 <contributed>Steve Hannah</contributed>
+	</plugin>
+	<plugin fileName="CN1Flurry.cn1lib">
+                 <name>Flurry Library</name>
+                 <description>This plugin supports flurry analytics and Interstitial Ads (Full Screen Ads) \nThe library is implemented for Android and iOS.</description>
+                 <link>https://github.com/chen-fishbein/flurry-codenameone</link>
+                 <version>1</version>
+                 <contributed>Steve Hannah, Chen Fishbein, Sam Lotti </contributed>
+	</plugin>
+	<plugin fileName="cn1-codescan.cn1lib">
+                 <name>Codename One CodeScanner Library</name>
+                 <description>This library provides code scanning (QR code and Bar code) support for Codename One</description>
+                 <link>https://github.com/codenameone/cn1-codescan</link>
+                 <version>1</version>
+                 <contributed>CodenameOne</contributed>
+	</plugin>
+	<plugin fileName="ZipSupport.cn1lib">
+                 <name>Zip Support</name>
+                 <description>This is a Codename One library for Zip support based on the code from the zipme project</description>
+                 <link>https://github.com/codenameone/ZipSupport</link>
+                 <version>1</version>
+                 <contributed>CodenameOne</contributed>
+	</plugin>
+	<plugin fileName="cn1-freshdesk.cn1lib">
+                 <name>Codename One Freshdesk SDK</name>
+                 <description>Codename One support for Freshdesk.\nThis library wraps the native iOS and Android SDKs to provide a single cross-platform Java API\n that can be used in a Codename One project.</description>
+                 <link>http://shannah.github.io/cn1-freshdesk/</link>
+                 <version>1</version>
+                 <contributed>Steve Hannah</contributed>
+	</plugin>
+	<plugin fileName="Telephony.cn1lib">
+                 <name>Telephony</name>
+                 <description>Simcard information support for codename one applications\nThis library can retrieve MCC, MNC, ISO country code and carrier name information from the simcard\nCurrently supported in Android and iOS.</description>
+                 <link>https://github.com/Pmovil/Telephony</link>
+                 <version>1</version>
+                 <contributed>Fabricio Cabeca (from Pmovil)</contributed>
+	</plugin>
+	<plugin fileName="parse4cn1.cn1lib">
+                 <name>Parse4CN1</name>
+                 <description>Parse4CN1 - Codename One Library for Parse</description>
+                 <link>https://github.com/sidiabale/parse4cn1</link>
+                 <version>1</version>
+                 <contributed>Chidiebere Okwudire</contributed>
+	</plugin>
+	<plugin fileName="Core.cn1lib">
+                 <name>Core2d</name>
+                 <description>2d gaming library</description>
+                 <link>https://github.com/chen-fishbein/core2d-cn1lib</link>
+                 <version>1</version>
+                 <contributed>Antonio Mannucci</contributed>
+	</plugin>
+	<plugin fileName="Connectivity.cn1lib">
+                 <name>codenameone-connectivity</name>
+                 <description>Simple library for getting basic connection information on codename one</description>
+                 <link>https://github.com/littlemonkeyltd/codenameone-connectivity</link>
+                 <version>1</version>
+                 <contributed>Nick K (from littlemonkey)</contributed>
+	</plugin>
+	<plugin fileName="CN1NativeGA.cn1lib">
+                 <name>Google Analytics</name>
+                 <description>Native Google Analytics Library</description>
+                 <link>https://github.com/Pmovil/cn1libs-native-ga</link>
+                 <version>1</version>
+                 <contributed>Ivan (from Pmovil)</contributed>
+	</plugin>
+	<plugin fileName="CN1Calendar.cn1lib">
+                 <name>Calendar Library</name>
+                 <description>Allows Codename One applications to use the device calendar, </description>
+                 <link>https://github.com/chen-fishbein/codenameone-calendar</link>
+                 <version>1</version>
+                 <contributed>Andreas Heydler, Kapila de Lanerolle</contributed>
+	</plugin>
+	<plugin fileName="CN1Sockets.cn1lib">
+                 <name>Codename Sockets Library</name>
+                 <description>This library was started as an attempt to add sockets support to Codename One. \nSupports iOS, Android, Blackberry, JavaSE and J2ME. </description>
+                 <link>https://github.com/shannah/CN1Sockets</link>
+                 <version>1</version>
+                 <contributed>Steve Hannah</contributed>
+	</plugin>
+	<plugin fileName="cn1-websockets.cn1lib">
+                 <name>Codename One WebSockets Library</name>
+                 <description>This library adds WebSocket client support for Codename One apps. </description>
+                 <link>https://github.com/shannah/cn1-websockets</link>
+                 <version>1</version>
+                 <contributed>Steve Hannah</contributed>
+	</plugin>
+	<plugin fileName="Pubnub-CodeNameOne-3.7.8.cn1lib">
+                 <name>Codename One Pubnub SDK</name>
+                 <description>Pubnub SDK for Codename One Apps</description>
+                 <link>https://www.pubnub.com/docs/codenameone-java/data-streams-publish-and-subscribe</link>
+                 <version>1</version>
+                 <contributed>Pubnub</contributed>
+	</plugin>
+	<plugin fileName="Pubnub-CodeNameOne-3.7.8.cn1lib">
+                 <name>Codename One Pubnub SDK</name>
+                 <description>Pubnub SDK for Codename One Apps</description>
+                 <link>https://www.pubnub.com/docs/codenameone-java/data-streams-publish-and-subscribe</link>
+                 <version>1</version>
+                 <contributed>Pubnub</contributed>
+	</plugin>
+	<plugin fileName="DropboxCN1Lib.cn1lib">
+                 <name>Dropbox SDK</name>
+                 <description>Dropbox  SDK for Codename One Apps</description>
+                 <link>https://github.com/chen-fishbein/dropbox-codenameone-sdk</link>
+                 <version>1</version>
+                 <contributed>CodenameOne</contributed>
+	</plugin>
+	<plugin fileName="BouncyCastleCN1Lib.cn1lib">
+                 <name>BouncyCastle SDK</name>
+                 <description>Bouncy Castle Crypto API for Codename One</description>
+                 <link>https://github.com/chen-fishbein/bouncy-castle-codenameone-lib</link>
+                 <version>1</version>
+                 <contributed>CodenameOne</contributed>
+	</plugin>
+	<plugin fileName="CodenameOne-SFDC-lib.cn1lib">
+                 <name>SalesForce SDK</name>
+                 <description>SalesForce SDK for Codename One</description>
+                 <link>https://www.codenameone.com/blog/combining-salesforce-and-codename-one.html</link>
+                 <version>1</version>
+                 <contributed>Bertrand Cirot</contributed>
+	</plugin>
+	<plugin fileName="CodenameOneCKeditorComponent.cn1lib">
+                 <name>Codename One CKeditor Component</name>
+                 <description>A WYSIWYG HTML Editor component for Codename One</description>
+                 <link>https://github.com/shannah/cn1-ckeditor</link>
+                 <version>1</version>
+                 <contributed>Steve Hannah</contributed>
+	</plugin>
+	<plugin fileName="CN1JSON.cn1lib">
+                 <name>Codename One JSON Library</name>
+                 <description>A library to read and write JSON in Codename One</description>
+                 <link>https://github.com/shannah/CN1JSON</link>
+                 <version>1</version>
+                 <contributed>Steve Hannah</contributed>
+	</plugin>
+	<plugin fileName="CN1JTar.cn1lib">
+                 <name>Codename One Tar Library</name>
+                 <description>A library for reading and writing TAR files in Codename One</description>
+                 <link>https://github.com/shannah/CN1JTar</link>
+                 <version>1</version>
+                 <contributed>Steve Hannah</contributed>
+	</plugin>
+	<plugin fileName="GoogleMaps.cn1lib">
+                 <name>Codename One Google Native Maps Support</name>
+                 <description>Allows Codename One developers to embed native Google Maps on iOS/Android or fallback to Codename One\n MapComponent on other platforms</description>
+                 <link>https://github.com/codenameone/codenameone-google-maps</link>
+                 <version>1</version>
+                 <contributed>CodenameOne</contributed>
+	</plugin>
+	<plugin fileName="CN1Sensors.cn1lib">
+                 <name>sensors-codenameone</name>
+                 <description>Sensors library for Codename One, implemented on Android and iOS</description>
+                 <link>https://github.com/chen-fishbein/sensors-codenameone</link>
+                 <version>1</version>
+                 <contributed>CodenameOne</contributed>
+	</plugin>
+	<plugin fileName="CN1Bluethooth.cn1lib">
+                 <name>bluetoothle-codenameone</name>
+                 <description>Bluethooth LE Library for Codename One apps</description>
+                 <link>https://github.com/chen-fishbein/bluetoothle-codenameone</link>
+                 <version>1</version>
+                 <contributed>CodenameOne</contributed>
+	</plugin>
 </plugins>
