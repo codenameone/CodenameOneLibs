@@ -258,7 +258,7 @@
         <link>https://github.com/codenameone/codenameone-google-maps</link>
         <version>1</version>
         <license>Apache 2.0 </license>
-        <tags>utilities</tags>
+        <tags>utilities,maps</tags>
         <platforms>iOS, Android</platforms>
         <dependencies></dependencies>
         <contributed>CodenameOne</contributed>
@@ -284,5 +284,16 @@
         <platforms>iOS, Android</platforms>
         <dependencies>CN1JSON.cn1lib</dependencies>
         <contributed>CodenameOne</contributed>
+    </plugin>
+    <plugin fileName="CN1GeoViz.cn1lib">
+        <name>Codename One GeoViz Library</name>
+        <description>This library provides support for loading GeoJSON data in a Codename One application. It also provides a component to render the GeoJSON data.</description>
+        <link>https://github.com/shannah/CN1GeoViz</link>
+        <version>1</version>
+        <license>GPL+Classpath Exception</license>
+        <tags>utilities,maps</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
     </plugin>
 </plugins>
