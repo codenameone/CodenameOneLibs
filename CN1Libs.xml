@@ -307,4 +307,15 @@
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
+    <plugin fileName="CN1OfflineMaps.cn1lib">
+        <name>Codename One Offline Maps Library</name>
+        <description>MapProvider that works with the Codename One MapComponent class to provide support for offline maps</description>
+        <link>https://github.com/shannah/CN1OfflineMaps</link>
+        <version>1</version>
+        <license>LGPL</license>
+        <tags>utilities,maps</tags>
+        <platforms>All</platforms>
+        <dependencies>CN1JTar.cn1lib</dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
 </plugins>
