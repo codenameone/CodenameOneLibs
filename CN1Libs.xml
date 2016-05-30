@@ -259,7 +259,7 @@
         <version>1</version>
         <license>Apache 2.0 </license>
         <tags>utilities,maps</tags>
-        <platforms>iOS, Android</platforms>
+        <platforms>iOS, Android, Javascript</platforms>
         <dependencies></dependencies>
         <contributed>CodenameOne</contributed>
     </plugin>
@@ -292,7 +292,18 @@
         <version>1</version>
         <license>GPL+Classpath Exception</license>
         <tags>utilities,maps</tags>
-        <platforms>iOS, Android</platforms>
+        <platforms>iOS, Android, Javascript, Simulator</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
+    <plugin fileName="xmlview.cn1lib">
+        <name>Codename One XMLView Library</name>
+        <description>A codename one UI component for rendering XML.</description>
+        <link>https://github.com/shannah/cn1-xmlview</link>
+        <version>1</version>
+        <license>Apache 2.0</license>
+        <tags>utilities</tags>
+        <platforms>All</platforms>
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
