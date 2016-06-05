@@ -19,9 +19,10 @@ If you are the author of a cn1lib and want it to be listed here go thru the foll
 - Star and fork this project
 - In your fork drag the cn1lib file into the [cn1libs directory](https://github.com/codenameone/CodenameOneLibs)
 - In the [CN1Libs.xml file](https://github.com/codenameone/CodenameOneLibs/blob/master/CN1Libs.xml) click the edit button and add an entry for your lib
+- Commit your changes and press the Pull Request button in your fork, follow the process to submit that pull request to us
 
 A few things to keep in mind when adding an entry:
 
-- Version is an integer value to help us identify that the library has changed. Integers are more useful in that sense.
+- Version is an integer value to help us identify that the library has changed. If you just want to submit an update then just follow the same steps and replace the version number.
 - The name is case sensitive and uniquely identifies your library. Don't change the case and make sure the name is correct
 
