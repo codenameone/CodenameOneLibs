@@ -37,7 +37,7 @@
         <name>Codename One Data Access Library</name>
         <description>Provides a Data access layer for SQLite databases in Codename One.</description>
         <link>https://github.com/shannah/cn1-data-access-lib</link>
-        <version>1</version>
+        <version>2</version>
         <license>Apache 2.0 </license>
         <tags>storage,database</tags>
         <platforms>iOS, Android, Javascript</platforms>
@@ -48,7 +48,7 @@
         <name>Flurry Library</name>
         <description>This plugin supports flurry analytics and Interstitial Ads (Full Screen Ads) \nThe library is implemented for Android and iOS.</description>
         <link>https://github.com/chen-fishbein/flurry-codenameone</link>
-        <version>1</version>
+        <version>2</version>
         <license>Apache 2.0 </license>
         <tags>ads, analytics</tags>
         <platforms>iOS, Android,</platforms>
@@ -59,7 +59,7 @@
         <name>Codename One CodeScanner Library</name>
         <description>This library provides code scanning (QR code and Bar code) support for Codename One</description>
         <link>https://github.com/codenameone/cn1-codescan</link>
-        <version>1</version>
+        <version>2</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>iOS, Android, Blackberry</platforms>
@@ -70,7 +70,7 @@
         <name>Zip Support</name>
         <description>This is a Codename One library for Zip support based on the code from the zipme project</description>
         <link>https://github.com/codenameone/ZipSupport</link>
-        <version>1</version>
+        <version>2</version>
         <license>Modified GPL</license>
         <tags>utilities</tags>
         <platforms>All</platforms>
@@ -97,13 +97,13 @@
         <tags>utilities,networking</tags>
         <platforms>iOS, Android</platforms>
         <dependencies></dependencies>
-        <contributed>Fabricio Cabeca (from Pmovil)</contributed>
+        <contributed>Fabricio Cabeca (from Pmovil)</contributed> 
     </plugin>
     <plugin fileName="parse4cn1.cn1lib">
         <name>Parse4CN1</name>
         <description>Parse4CN1 - Codename One Library for Parse</description>
         <link>https://github.com/sidiabale/parse4cn1</link>
-        <version>1</version>
+        <version>2</version>
         <license>Apache License</license>
         <tags>storage, utilities, cloud, push</tags>
         <platforms>iOS, Android, Windows Phone</platforms>
@@ -114,7 +114,7 @@
         <name>Core2d</name>
         <description>2d gaming library</description>
         <link>https://github.com/chen-fishbein/core2d-cn1lib</link>
-        <version>1</version>
+        <version>2</version>
         <license>MIT License</license>
         <tags>gaming</tags>
         <platforms>All</platforms>
@@ -125,7 +125,7 @@
         <name>codenameone-connectivity</name>
         <description>Simple library for getting basic connection information on codename one</description>
         <link>https://github.com/littlemonkeyltd/codenameone-connectivity</link>
-        <version>1</version>
+        <version>2</version>
         <license>MIT License</license>
         <tags>utilities,networking</tags>
         <platforms>iOS, Android</platforms>
@@ -180,7 +180,7 @@
         <name>Codename One Pubnub SDK</name>
         <description>Pubnub SDK for Codename One Apps</description>
         <link>https://www.pubnub.com/docs/codenameone-java/data-streams-publish-and-subscribe</link>
-        <version>1</version>
+        <version>3</version>
         <license>PubNub license</license>
         <tags>utilities,networking</tags>
         <platforms>iOS, Android</platforms>
@@ -224,7 +224,7 @@
         <name>Codename One CKeditor Component</name>
         <description>A WYSIWYG HTML Editor component for Codename One</description>
         <link>https://github.com/shannah/cn1-ckeditor</link>
-        <version>1</version>
+        <version>2</version>
         <license>Unclear</license>
         <tags>ui</tags>
         <platforms>iOS, Android, Windows Phone, Javascript</platforms>
@@ -235,7 +235,7 @@
         <name>Codename One JSON Library</name>
         <description>A library to read and write JSON in Codename One</description>
         <link>https://github.com/shannah/CN1JSON</link>
-        <version>1</version>
+        <version>2</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>All</platforms>
@@ -246,7 +246,7 @@
         <name>Codename One Tar Library</name>
         <description>A library for reading and writing TAR files in Codename One</description>
         <link>https://github.com/shannah/CN1JTar</link>
-        <version>1</version>
+        <version>2</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>All</platforms>
@@ -268,7 +268,7 @@
         <name>sensors-codenameone</name>
         <description>Sensors library for Codename One, implemented on Android and iOS</description>
         <link>https://github.com/chen-fishbein/sensors-codenameone</link>
-        <version>1</version>
+        <version>2</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>iOS, Android</platforms>
@@ -279,7 +279,7 @@
         <name>bluetoothle-codenameone</name>
         <description>Bluethooth LE Library for Codename One apps</description>
         <link>https://github.com/chen-fishbein/bluetoothle-codenameone</link>
-        <version>1</version>
+        <version>2</version>
         <license>MIT License</license>
         <tags>utilities,networking</tags>
         <platforms>iOS, Android</platforms>
