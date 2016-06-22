@@ -101,14 +101,14 @@
     </plugin>
     <plugin fileName="parse4cn1.cn1lib">
         <name>Parse4CN1</name>
-        <description>Parse4CN1 - Codename One Library for Parse</description>
+        <description>Parse4CN1 - Codename One Library for Parse. Currrent version matches release v3.0</description>
         <link>https://github.com/sidiabale/parse4cn1</link>
-        <version>2</version>
+        <version>3</version>
         <license>Apache License</license>
         <tags>storage, utilities, cloud, push</tags>
         <platforms>iOS, Android, Windows Phone</platforms>
         <dependencies>CN1JSON.cn1lib</dependencies>
-        <contributed>Chidiebere Okwudire</contributed>
+        <contributed>Chidiebere Okwudire (from SMash ICT Solutions)</contributed>
     </plugin>
     <plugin fileName="Core.cn1lib">
         <name>Core2d</name>
