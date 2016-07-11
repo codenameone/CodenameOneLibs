@@ -279,7 +279,7 @@
         <name>bluetoothle-codenameone</name>
         <description>Bluethooth LE Library for Codename One apps</description>
         <link>https://github.com/chen-fishbein/bluetoothle-codenameone</link>
-        <version>2</version>
+        <version>3</version>
         <license>MIT License</license>
         <tags>utilities,networking</tags>
         <platforms>iOS, Android</platforms>
