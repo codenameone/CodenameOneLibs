@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+    <plugin fileName="cn1-native-data-transfer-lib.cn1lib">
+        <name>Drag and Drop from the native desktop OS</name>
+        <description>Allows the desktop/JavaScript versions to receive files dropped into them</description>
+        <link>https://github.com/shannah/cn1-native-data-transfer</link>
+        <version>1</version>
+        <license>Apache 2.0 </license>
+        <tags>utilities,ui</tags>
+        <platforms>Desktop, JavaScript</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
     <plugin fileName="AdmobFullScreen.cn1lib">
         <name>Admob Fullscreen Ads</name>
         <description>Admob Fullscreen Ads library, supports iOS and Android</description>
