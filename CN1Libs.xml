@@ -77,6 +77,17 @@
         <dependencies></dependencies>
         <contributed>CodenameOne</contributed>
     </plugin>
+    <plugin fileName="QRScanner.cn1lib">
+        <name>QRScanner</name>
+        <description>CN1Lib for using ZBar scanning in Android apps.  This removes the reliance on an external scanning app to be installed on Android.</description>
+        <link>https://github.com/littlemonkeyltd/QRScanner</link>
+        <version>1</version>
+        <license>MIT License</license>
+        <tags>utilities</tags>
+        <platforms>Android</platforms>
+        <dependencies>cn1-codescan.cn1lib</dependencies>
+        <contributed>CodenameOne</contributed>
+    </plugin>
     <plugin fileName="ZipSupport.cn1lib">
         <name>Zip Support</name>
         <description>This is a Codename One library for Zip support based on the code from the zipme project</description>
