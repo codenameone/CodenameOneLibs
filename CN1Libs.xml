@@ -279,7 +279,7 @@
         <name>Codename One Google Native Maps Support</name>
         <description>Allows Codename One developers to embed native Google Maps on iOS/Android or fallback to Codename One\n MapComponent on other platforms</description>
         <link>https://github.com/codenameone/codenameone-google-maps</link>
-        <version>4</version>
+        <version>5</version>
         <license>Apache 2.0 </license>
         <tags>utilities,maps</tags>
         <platforms>iOS, Android, Javascript</platforms>
