@@ -314,10 +314,21 @@
         <link>https://github.com/shannah/CN1FontBox</link>
         <version>2</version>
         <license>MIT License</license>
-        <tags>fonts,graphics</tags>
+        <tags>fonts,ui</tags>
         <platforms>iOS, Android, Javascript, UWP, Simulator</platforms>
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
+    </plugin>
+    <plugin fileName="CN1FileChooser.cn1lib">
+        <name>cn1-filechooser</name>
+        <description>Adds support for a native file chooser for opening files of any specified set of extensions and/or mimetypes.</description>
+        <link>https://github.com/shannah/cn1-filechooser</link>
+        <version>1</version>
+        <license>MIT License</license>
+        <tags>utilities,storage</tags>
+        <platforms>iOS, Android, Javascript, UWP, Simulator</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
     </plugin>
     <plugin fileName="CN1GeoViz.cn1lib">
         <name>Codename One GeoViz Library</name>
