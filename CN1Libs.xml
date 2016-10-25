@@ -308,6 +308,17 @@
         <dependencies>CN1JSON.cn1lib</dependencies>
         <contributed>CodenameOne</contributed>
     </plugin>
+    <plugin fileName="CN1FontBox.cn1lib">
+        <name>CN1FontBox</name>
+        <description>Codename One Port of FontBox.  Provides TTF font support with added features like stroking, filling, scaling, transforming, etc...</description>
+        <link>https://github.com/shannah/CN1FontBox</link>
+        <version>2</version>
+        <license>MIT License</license>
+        <tags>fonts,graphics</tags>
+        <platforms>iOS, Android, Javascript, UWP, Simulator</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
     <plugin fileName="CN1GeoViz.cn1lib">
         <name>Codename One GeoViz Library</name>
         <description>This library provides support for loading GeoJSON data in a Codename One application. It also provides a component to render the GeoJSON data.</description>
