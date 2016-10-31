@@ -312,7 +312,7 @@
         <name>CN1FontBox</name>
         <description>Codename One Port of FontBox.  Provides TTF font support with added features like stroking, filling, scaling, transforming, etc...</description>
         <link>https://github.com/shannah/CN1FontBox</link>
-        <version>2</version>
+        <version>3</version>
         <license>MIT License</license>
         <tags>fonts,ui</tags>
         <platforms>iOS, Android, Javascript, UWP, Simulator</platforms>
