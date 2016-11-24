@@ -55,6 +55,17 @@
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
+    <plugin fileName="GenericWebserviceClient.cn1lib">
+        <name>Generic Webservice Client</name>
+        <description>Web service client for connecting to a RESTful web service.</description>
+        <link>https://github.com/shannah/cn1-generic-webservice-client</link>
+        <version>1</version>
+        <license>Apache 2.0</license>
+        <tags>database,webservice,networking</tags>
+        <platforms>iOS, Android, Javascript, UWP, Simulator, RIM, J2ME</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
     <plugin fileName="cn1-xataface.cn1lib">
         <name>CN1Xataface</name>
         <description>Web service client for connecting to a MySQL back-end.</description>
