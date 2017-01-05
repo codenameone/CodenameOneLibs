@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+    <plugin fileName="SSLCertificateFingerprint.cn1lib">
+        <name>SSL Certificate Fingerprint</name>
+        <description>Checks that the certificate of a server matches a specific value</description>
+        <link>https://github.com/codenameone/SSLCertificateFingerprint/tree/master</link>
+        <version>1</version>
+        <license>GPL+Classpath Exception</license>
+        <tags>utilities,networking</tags>
+        <platforms>Desktop, iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
     <plugin fileName="cn1-native-data-transfer-lib.cn1lib">
         <name>Drag and Drop from the native desktop OS</name>
         <description>Allows the desktop/JavaScript versions to receive files dropped into them</description>
