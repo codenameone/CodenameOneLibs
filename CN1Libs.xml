@@ -156,9 +156,9 @@
     </plugin>
     <plugin fileName="parse4cn1.cn1lib">
         <name>Parse4CN1</name>
-        <description>Parse4CN1 - Codename One Library for Parse. Currrent version matches release v3.0</description>
+        <description>Parse4CN1 - Codename One Library for Parse. Currrent version matches release v3.1</description>
         <link>https://github.com/sidiabale/parse4cn1</link>
-        <version>3</version>
+        <version>31</version>
         <license>Apache License</license>
         <tags>storage, utilities, cloud, push</tags>
         <platforms>iOS, Android, Windows Phone</platforms>
