@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+    <plugin fileName="IntercomSupport-no-push.cn1lib">
+        <name>Intercom Support</name>
+        <description>Adds support for integrating intercom.io for customer support and cross screen insight</description>
+        <link>https://github.com/codenameone/IntercomSupport/tree/master</link>
+        <version>1</version>
+        <license>GPL+Classpath Exception</license>
+        <tags>utilities,analytics</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
     <plugin fileName="SSLCertificateFingerprint.cn1lib">
         <name>SSL Certificate Fingerprint</name>
         <description>Checks that the certificate of a server matches a specific value</description>
