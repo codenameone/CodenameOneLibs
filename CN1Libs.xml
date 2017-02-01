@@ -3,7 +3,7 @@
     <plugin fileName="IntercomSupport-no-push.cn1lib">
         <name>Intercom Support</name>
         <description>Adds support for integrating intercom.io for customer support and cross screen insight</description>
-        <link>https://github.com/codenameone/IntercomSupport/tree/master</link>
+        <link>https://github.com/codenameone/IntercomSupport/</link>
         <version>1</version>
         <license>GPL+Classpath Exception</license>
         <tags>utilities,analytics</tags>
