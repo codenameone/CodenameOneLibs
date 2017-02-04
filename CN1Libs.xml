@@ -2,7 +2,7 @@
 <plugins>
     <plugin fileName="Helper.cn1lib">
         <name>CN1-Helper</name>
-        <description>A Helper library for basic styling using code in Codename One. This eliminates the to have endless endless UIID in your GUI builder</description>
+        <description>A Helper library for basic styling using code in Codename One. This eliminates the need to have endless endless UIID in your GUI builder</description>
         <link>https://github.com/diamondobama/cn1-Helper</link>
         <version>1</version>
         <license>MIT License</license>
