@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+ +  <plugin fileName="Helper.cn1lib">
+ +      <name>CN1-Helper</name>
+ +      <description>A Helper library for basic styling using code in Codename One. This eliminates the need to have endless endless UIID in your GUI builder</description>
+ +      <link>https://github.com/diamondobama/cn1-Helper</link>
+ +      <version>1</version>
+ +      <license>MIT License</license>
+ +      <tags>styling,uiid,design,ui</tags>
+ +      <platforms>iOS, Android, Javascript, UWP, Simulator, RIM, J2ME</platforms>
+ +      <dependencies></dependencies>
+ +      <contributed>Diamond Dev Group</contributed>
+ +  </plugin>
+    <plugin fileName="IntercomSupport-no-push.cn1lib">
+        <name>Intercom Support</name>
+        <description>Adds support for integrating intercom.io for customer support and cross screen insight</description>
+        <link>https://github.com/codenameone/IntercomSupport/</link>
+        <version>1</version>
+        <license>GPL+Classpath Exception</license>
+        <tags>utilities,analytics</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+    <plugin fileName="SSLCertificateFingerprint.cn1lib">
+        <name>SSL Certificate Fingerprint</name>
+        <description>Checks that the certificate of a server matches a specific value</description>
+        <link>https://github.com/codenameone/SSLCertificateFingerprint/tree/master</link>
+        <version>1</version>
+        <license>GPL+Classpath Exception</license>
+        <tags>utilities,networking</tags>
+        <platforms>Desktop, iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
     <plugin fileName="cn1-native-data-transfer-lib.cn1lib">
         <name>Drag and Drop from the native desktop OS</name>
         <description>Allows the desktop/JavaScript versions to receive files dropped into them</description>
@@ -145,9 +178,9 @@
     </plugin>
     <plugin fileName="parse4cn1.cn1lib">
         <name>Parse4CN1</name>
-        <description>Parse4CN1 - Codename One Library for Parse. Currrent version matches release v3.0</description>
+        <description>Parse4CN1 - Codename One Library for Parse. Currrent version matches release v3.1</description>
         <link>https://github.com/sidiabale/parse4cn1</link>
-        <version>3</version>
+        <version>31</version>
         <license>Apache License</license>
         <tags>storage, utilities, cloud, push</tags>
         <platforms>iOS, Android, Windows Phone</platforms>
