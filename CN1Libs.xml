@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
     <plugin fileName="Helper.cn1lib">
- +      <name>CN1-Helper</name>
- +      <description>A Helper library for basic styling using code in Codename One. This eliminates the need to have endless endless UIID in your GUI builder</description>
- +      <link>https://github.com/diamondobama/cn1-Helper</link>
- +      <version>2</version>
- +      <license>MIT License</license>
- +      <tags>styling,uiid,design,ui</tags>
- +      <platforms>iOS, Android, Javascript, UWP, Simulator, RIM, J2ME</platforms>
- +      <dependencies></dependencies>
- +      <contributed>Diamond Dev Group</contributed>
- +  </plugin>
+        <name>CN1-Helper</name>
+        <description>A Helper library for basic styling using code in Codename One. This eliminates the need to have endless endless UIID in your GUI builder</description>
+        <link>https://github.com/diamondobama/cn1-Helper</link>
+        <version>2</version>
+        <license>MIT License</license>
+        <tags>styling,uiid,design,ui</tags>
+        <platforms>iOS, Android, Javascript, UWP, Simulator, RIM, J2ME</platforms>
+        <dependencies></dependencies>
+        <contributed>Diamond Dev Group</contributed>
+    </plugin>
     <plugin fileName="IntercomSupport-no-push.cn1lib">
         <name>Intercom Support</name>
         <description>Adds support for integrating intercom.io for customer support and cross screen insight</description>
