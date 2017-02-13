@@ -2,9 +2,9 @@
 <plugins>
     <plugin fileName="Helper.cn1lib">
         <name>CN1-Helper</name>
-        <description>A Helper library for basic styling using code in Codename One. This eliminates the need to have endless endless UIID in your GUI builder</description>
+        <description>A Helper library for basic styling with code in Codename One. This eliminates the need to have endless UIID in your GUI builder</description>
         <link>https://github.com/diamondobama/cn1-Helper</link>
-        <version>2</version>
+        <version>3</version>
         <license>MIT License</license>
         <tags>styling,uiid,design,ui</tags>
         <platforms>iOS, Android, Javascript, UWP, Simulator, RIM, J2ME</platforms>
