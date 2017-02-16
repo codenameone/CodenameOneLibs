@@ -136,7 +136,7 @@
         <name>QRScanner</name>
         <description>CN1Lib for using ZBar scanning in Android apps.  This removes the reliance on an external scanning app to be installed on Android.</description>
         <link>https://github.com/littlemonkeyltd/QRScanner</link>
-        <version>2</version>
+        <version>3</version>
         <license>MIT License</license>
         <tags>utilities</tags>
         <platforms>Android</platforms>
