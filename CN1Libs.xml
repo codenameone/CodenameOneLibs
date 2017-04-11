@@ -345,7 +345,7 @@
         <name>sensors-codenameone</name>
         <description>Sensors library for Codename One, implemented on Android and iOS</description>
         <link>https://github.com/chen-fishbein/sensors-codenameone</link>
-        <version>2</version>
+        <version>3</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>iOS, Android</platforms>
