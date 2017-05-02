@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+    <plugin fileName="BraintreeCodenameOne.cn1lib">
+        <name>BraintreeCodenameOne</name>
+        <description>Provides Braintree (PayPal) API support for Codename One apps</description>
+        <link>https://github.com/codenameone/BraintreeCodenameOne</link>
+        <version>1</version>
+        <license>MIT License</license>
+        <tags>payment,utilities</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+
+    <plugin fileName="FingerprintScanner.cn1lib">
+        <name>FingerprintScanner</name>
+        <description>Fingerprint/TouchID support</description>
+        <link>https://github.com/codenameone/FingerprintScanner</link>
+        <version>1</version>
+        <license>MIT License</license>
+        <tags>utilities</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+
     <plugin fileName="Helper.cn1lib">
         <name>CN1-Helper</name>
         <description>A Helper library for basic styling with code in Codename One. This eliminates the need to have endless UIID in your GUI builder</description>
