@@ -358,7 +358,7 @@
         <name>Codename One Google Native Maps Support</name>
         <description>Allows Codename One developers to embed native Google Maps on iOS, Android, and Javascript.  Uses Google maps in BrowserComponent on simulator and falls back to Codename One\n MapComponent on UWP.</description>
         <link>https://github.com/codenameone/codenameone-google-maps</link>
-        <version>18</version>
+        <version>19</version>
         <license>Apache 2.0 </license>
         <tags>utilities,maps</tags>
         <platforms>iOS, Android, Javascript</platforms>
