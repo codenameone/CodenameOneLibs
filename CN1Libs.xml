@@ -158,7 +158,7 @@
     </plugin>
     <plugin fileName="QRScanner.cn1lib">
         <name>QRScanner</name>
-        <description>CN1Lib for using ZBar scanning in Android apps.  This removes the reliance on an external scanning app to be installed on Android.</description>
+        <description>CN1Lib for using ZBar scanning in Android apps.  This removes the reliance on an external scanning app to be installed on Android. Important: Currently requires Android API level 21 which might cause issues</description>
         <link>https://github.com/littlemonkeyltd/QRScanner</link>
         <version>3</version>
         <license>MIT License</license>
@@ -246,7 +246,7 @@
     </plugin>
     <plugin fileName="CN1Calendar.cn1lib">
         <name>Calendar Library</name>
-        <description>Allows Codename One applications to use the device calendar, </description>
+        <description>Allows Codename One applications to use the device calendar. Important: Currently requires Android API level 21 which might cause issues</description>
         <link>https://github.com/chen-fishbein/codenameone-calendar</link>
         <version>1</version>
         <license>GPL+Classpath Exception</license>
