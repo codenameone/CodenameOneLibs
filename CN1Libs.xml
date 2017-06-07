@@ -246,9 +246,9 @@
     </plugin>
     <plugin fileName="CN1Calendar.cn1lib">
         <name>Calendar Library</name>
-        <description>Allows Codename One applications to use the device calendar. Important: Currently requires Android API level 21 which might cause issues</description>
+        <description>Allows Codename One applications to use the device calendar. </description>
         <link>https://github.com/chen-fishbein/codenameone-calendar</link>
-        <version>1</version>
+        <version>2</version>
         <license>GPL+Classpath Exception</license>
         <tags>utilities</tags>
         <platforms>iOS, Android</platforms>
