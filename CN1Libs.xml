@@ -198,7 +198,7 @@
         <tags>utilities,networking</tags>
         <platforms>iOS, Android</platforms>
         <dependencies></dependencies>
-        <contributed>Fabricio Cabeca (from Pmovil)</contributed> 
+        <contributed>Fabricio Cabeca (from Pmovil)</contributed>
     </plugin>
     <plugin fileName="parse4cn1.cn1lib">
         <name>Parse4CN1</name>
@@ -446,7 +446,7 @@
         <name>Codename One Cloudinary Support</name>
         <description>This library adds support for the Cloudinary image management service to Codename One apps. The library itself is a direct port of the Cloudinary Java SDK.</description>
         <link>https://github.com/shannah/cloudinary-codenameone</link>
-        <version>2</version>
+        <version>3</version>
         <license>MIT</license>
         <tags>utilities</tags>
         <platforms>All</platforms>
