@@ -68,6 +68,17 @@
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
+    <plugin fileName="kotlin-runtime.cn1lib">
+        <name>Kotlin support for Codename One</name>
+        <description>Adds support for Kotlin in Codename One apps. (Requires IntelliJ IDEA)</description>
+        <link>https://github.com/shannah/codenameone-kotlin</link>
+        <version>1</version>
+        <license>Apache 2.0 </license>
+        <tags>utilities,languages</tags>
+        <platforms>iOS, Android, Javascript, UWP, Simulator, RIM, J2ME</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
     <plugin fileName="AdmobFullScreen.cn1lib">
         <name>Admob Fullscreen Ads</name>
         <description>Admob Fullscreen Ads library, supports iOS and Android</description>
