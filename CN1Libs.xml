@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+    <plugin fileName="BraintreeCodenameOne.cn1lib">
+        <name>BraintreeCodenameOne</name>
+        <description>Provides Braintree (PayPal) API support for Codename One apps</description>
+        <link>https://github.com/codenameone/BraintreeCodenameOne</link>
+        <version>2</version>
+        <license>MIT License</license>
+        <tags>payment,utilities</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+
+    <plugin fileName="FingerprintScanner.cn1lib">
+        <name>FingerprintScanner</name>
+        <description>Fingerprint/TouchID support</description>
+        <link>https://github.com/codenameone/FingerprintScanner</link>
+        <version>1</version>
+        <license>MIT License</license>
+        <tags>utilities</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+
     <plugin fileName="Helper.cn1lib">
         <name>CN1-Helper</name>
         <description>A Helper library for basic styling with code in Codename One. This eliminates the need to have endless UIID in your GUI builder</description>
@@ -43,6 +67,17 @@
         <platforms>Desktop, JavaScript</platforms>
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
+    </plugin>
+    <plugin fileName="kotlin-runtime.cn1lib">
+        <name>Kotlin support for Codename One</name>
+        <description>Adds support for Kotlin in Codename One apps. (Requires IntelliJ IDEA)</description>
+        <link>https://github.com/shannah/codenameone-kotlin</link>
+        <version>1</version>
+        <license>Apache 2.0 </license>
+        <tags>utilities,languages</tags>
+        <platforms>iOS, Android, Javascript, UWP, Simulator, RIM, J2ME</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
     </plugin>
     <plugin fileName="AdmobFullScreen.cn1lib">
         <name>Admob Fullscreen Ads</name>
@@ -134,7 +169,7 @@
     </plugin>
     <plugin fileName="QRScanner.cn1lib">
         <name>QRScanner</name>
-        <description>CN1Lib for using ZBar scanning in Android apps.  This removes the reliance on an external scanning app to be installed on Android.</description>
+        <description>CN1Lib for using ZBar scanning in Android apps.  This removes the reliance on an external scanning app to be installed on Android. Important: Currently requires Android API level 21 which might cause issues</description>
         <link>https://github.com/littlemonkeyltd/QRScanner</link>
         <version>3</version>
         <license>MIT License</license>
@@ -174,7 +209,7 @@
         <tags>utilities,networking</tags>
         <platforms>iOS, Android</platforms>
         <dependencies></dependencies>
-        <contributed>Fabricio Cabeca (from Pmovil)</contributed> 
+        <contributed>Fabricio Cabeca (from Pmovil)</contributed>
     </plugin>
     <plugin fileName="parse4cn1.cn1lib">
         <name>Parse4CN1</name>
@@ -222,9 +257,9 @@
     </plugin>
     <plugin fileName="CN1Calendar.cn1lib">
         <name>Calendar Library</name>
-        <description>Allows Codename One applications to use the device calendar, </description>
+        <description>Allows Codename One applications to use the device calendar. </description>
         <link>https://github.com/chen-fishbein/codenameone-calendar</link>
-        <version>1</version>
+        <version>2</version>
         <license>GPL+Classpath Exception</license>
         <tags>utilities</tags>
         <platforms>iOS, Android</platforms>
@@ -334,7 +369,7 @@
         <name>Codename One Google Native Maps Support</name>
         <description>Allows Codename One developers to embed native Google Maps on iOS, Android, and Javascript.  Uses Google maps in BrowserComponent on simulator and falls back to Codename One\n MapComponent on UWP.</description>
         <link>https://github.com/codenameone/codenameone-google-maps</link>
-        <version>12</version>
+        <version>19</version>
         <license>Apache 2.0 </license>
         <tags>utilities,maps</tags>
         <platforms>iOS, Android, Javascript</platforms>
@@ -345,7 +380,7 @@
         <name>sensors-codenameone</name>
         <description>Sensors library for Codename One, implemented on Android and iOS</description>
         <link>https://github.com/chen-fishbein/sensors-codenameone</link>
-        <version>2</version>
+        <version>3</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>iOS, Android</platforms>
@@ -354,7 +389,7 @@
     </plugin>
     <plugin fileName="CN1Bluetooth.cn1lib">
         <name>bluetoothle-codenameone</name>
-        <description>Bluethooth LE Library for Codename One apps</description>
+        <description>Bluethooth LE Library for Codename One apps. Important: Currently requires Android API level 21 which might cause issues</description>
         <link>https://github.com/chen-fishbein/bluetoothle-codenameone</link>
         <version>4</version>
         <license>MIT License</license>
@@ -422,7 +457,7 @@
         <name>Codename One Cloudinary Support</name>
         <description>This library adds support for the Cloudinary image management service to Codename One apps. The library itself is a direct port of the Cloudinary Java SDK.</description>
         <link>https://github.com/shannah/cloudinary-codenameone</link>
-        <version>2</version>
+        <version>3</version>
         <license>MIT</license>
         <tags>utilities</tags>
         <platforms>All</platforms>
