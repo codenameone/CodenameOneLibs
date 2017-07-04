@@ -136,7 +136,7 @@
         <name>QRScanner</name>
         <description>CN1Lib for using ZBar scanning in Android apps.  This removes the reliance on an external scanning app to be installed on Android.</description>
         <link>https://github.com/littlemonkeyltd/QRScanner</link>
-        <version>2</version>
+        <version>3</version>
         <license>MIT License</license>
         <tags>utilities</tags>
         <platforms>Android</platforms>
@@ -332,9 +332,9 @@
     </plugin>
     <plugin fileName="GoogleMaps.cn1lib">
         <name>Codename One Google Native Maps Support</name>
-        <description>Allows Codename One developers to embed native Google Maps on iOS/Android or fallback to Codename One\n MapComponent on other platforms</description>
+        <description>Allows Codename One developers to embed native Google Maps on iOS, Android, and Javascript.  Uses Google maps in BrowserComponent on simulator and falls back to Codename One\n MapComponent on UWP.</description>
         <link>https://github.com/codenameone/codenameone-google-maps</link>
-        <version>6</version>
+        <version>12</version>
         <license>Apache 2.0 </license>
         <tags>utilities,maps</tags>
         <platforms>iOS, Android, Javascript</platforms>
