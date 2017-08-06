@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
     <plugin fileName="BraintreeCodenameOne.cn1lib">
+        <name>AnimatedGifSupport</name>
+        <description>Support for Animated GIFs </description>
+        <link>https://github.com/codenameone/AnimatedGifSupport/</link>
+        <version>1</version>
+        <license>MIT License</license>
+        <tags>design,ui</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+
+    <plugin fileName="BraintreeCodenameOne.cn1lib">
         <name>BraintreeCodenameOne</name>
         <description>Provides Braintree (PayPal) API support for Codename One apps</description>
         <link>https://github.com/codenameone/BraintreeCodenameOne</link>
