@@ -476,4 +476,15 @@
         <dependencies>BouncyCastleCN1Lib.cn1lib</dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
+        <plugin fileName="QRMaker.cn1lib">
+        <name>QR Code generator</name>
+        <description>A partial port of Zxing for j2me to CN1 for generating QR code </description>
+        <link>https://github.com/rwanghk/QRMaker</link>
+        <version>1</version>
+        <license>Apache 2.0 </license>
+        <tags>utilities</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Roy Wang</contributed>
+    </plugin>
 </plugins>
