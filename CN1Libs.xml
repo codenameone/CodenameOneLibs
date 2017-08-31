@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-    <plugin fileName="BraintreeCodenameOne.cn1lib">
+    <plugin fileName="AnimatedGifSupport.cn1lib">
         <name>AnimatedGifSupport</name>
         <description>Support for Animated GIFs </description>
         <link>https://github.com/codenameone/AnimatedGifSupport/</link>
