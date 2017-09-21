@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+    <plugin fileName="SMSInterceptor.cn1lib">
+        <name>SMSInterceptor</name>
+        <description>Intercept incoming SMS on supported platforms in Codename One apps </description>
+        <link>https://github.com/diamonddevgroup/SMSInterceptor</link>
+        <version>1</version>
+        <license>MIT License</license>
+        <tags>utilities</tags>
+        <platforms>Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Diamond Dev Group</contributed>
+    </plugin>
+    
     <plugin fileName="AnimatedGifSupport.cn1lib">
         <name>AnimatedGifSupport</name>
         <description>Support for Animated GIFs </description>
-        <link>https://github.com/codenameone/AnimatedGifSupport/</link>
+        <link>https://github.com/codenameone/AnimatedGifSupport</link>
         <version>2</version>
         <license>MIT License</license>
         <tags>design,ui</tags>
@@ -476,7 +488,7 @@
         <dependencies>BouncyCastleCN1Lib.cn1lib</dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
-        <plugin fileName="QRMaker.cn1lib">
+    <plugin fileName="QRMaker.cn1lib">
         <name>QR Code generator</name>
         <description>A partial port of Zxing for j2me to CN1 for generating QR code </description>
         <link>https://github.com/rwanghk/QRMaker</link>
