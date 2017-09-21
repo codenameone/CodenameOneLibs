@@ -371,7 +371,7 @@
         <name>Codename One JSON Library</name>
         <description>A library to read and write JSON in Codename One</description>
         <link>https://github.com/shannah/CN1JSON</link>
-        <version>3</version>
+        <version>4</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>All</platforms>
