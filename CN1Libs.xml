@@ -11,7 +11,7 @@
         <dependencies></dependencies>
         <contributed>Diamond Dev Group</contributed>
     </plugin>
-    
+
     <plugin fileName="AnimatedGifSupport.cn1lib">
         <name>AnimatedGifSupport</name>
         <description>Support for Animated GIFs </description>
@@ -371,7 +371,7 @@
         <name>Codename One JSON Library</name>
         <description>A library to read and write JSON in Codename One</description>
         <link>https://github.com/shannah/CN1JSON</link>
-        <version>3</version>
+        <version>4</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>All</platforms>
@@ -393,7 +393,7 @@
         <name>Codename One Google Native Maps Support</name>
         <description>Allows Codename One developers to embed native Google Maps on iOS, Android, and Javascript.  Uses Google maps in BrowserComponent on simulator and falls back to Codename One\n MapComponent on UWP.</description>
         <link>https://github.com/codenameone/codenameone-google-maps</link>
-        <version>21</version>
+        <version>24</version>
         <license>Apache 2.0 </license>
         <tags>utilities,maps</tags>
         <platforms>iOS, Android, Javascript</platforms>
