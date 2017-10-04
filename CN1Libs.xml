@@ -24,6 +24,18 @@
         <contributed>Diamond Dev Group</contributed>
     </plugin>
 
+    <plugin fileName="SMSActivation.cn1lib">
+        <name>SMSActivation</name>
+        <description>Implements the full activation via SMS user signup process</description>
+        <link>https://github.com/codenameone/SMSActivation/</link>
+        <version>1</version>
+        <license>MIT License</license>
+        <tags>utilities</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+
     <plugin fileName="AnimatedGifSupport.cn1lib">
         <name>AnimatedGifSupport</name>
         <description>Support for Animated GIFs </description>
