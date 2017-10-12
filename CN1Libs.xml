@@ -16,7 +16,7 @@
         <name>SMSInterceptor</name>
         <description>Intercept incoming SMS on supported platforms in Codename One apps </description>
         <link>https://github.com/diamonddevgroup/SMSInterceptor</link>
-        <version>1</version>
+        <version>2</version>
         <license>MIT License</license>
         <tags>utilities</tags>
         <platforms>Android</platforms>
