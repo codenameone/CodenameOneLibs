@@ -47,6 +47,17 @@
         <dependencies></dependencies>
         <contributed>Codename One</contributed>
     </plugin>
+    <plugin fileName="Cn1Caching.cn1lib">
+        <name>Server data caching library</name>
+        <description>Easily enable and control device cache for remote data</description>
+        <link>https://github.com/jegesh/cn1-object-cacher</link>
+        <version>1</version>
+        <license>MIT License</license>
+        <tags>caching,data</tags>
+        <platforms>All</platforms>
+        <dependencies>CN1JSON.cn1lib</dependencies>
+        <contributed>Yaakov Gesher</contributed>
+    </plugin>
 
     <plugin fileName="BraintreeCodenameOne.cn1lib">
         <name>BraintreeCodenameOne</name>
