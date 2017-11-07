@@ -141,7 +141,7 @@
     <plugin fileName="AdmobFullScreen.cn1lib">
         <name>Admob Fullscreen Ads</name>
         <description>Admob Fullscreen Ads library, supports iOS and Android</description>
-        <link>https://github.com/chen-fishbein/admobfullscreen-codenameone</link>
+        <link>https://github.com/shannah/admobfullscreen-codenameone</link>
         <version>1</version>
         <license>Apache 2.0 </license>
         <tags>ads</tags>
