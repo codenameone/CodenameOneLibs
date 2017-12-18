@@ -208,7 +208,7 @@
         <name>Flurry Library</name>
         <description>This plugin supports flurry analytics and Interstitial Ads (Full Screen Ads) \nThe library is implemented for Android and iOS.</description>
         <link>https://github.com/chen-fishbein/flurry-codenameone</link>
-        <version>2</version>
+        <version>3</version>
         <license>Apache 2.0 </license>
         <tags>ads, analytics</tags>
         <platforms>iOS, Android,</platforms>
