@@ -40,7 +40,7 @@
         <name>AnimatedGifSupport</name>
         <description>Support for Animated GIFs </description>
         <link>https://github.com/codenameone/AnimatedGifSupport</link>
-        <version>2</version>
+        <version>3</version>
         <license>MIT License</license>
         <tags>design,ui</tags>
         <platforms>All</platforms>
