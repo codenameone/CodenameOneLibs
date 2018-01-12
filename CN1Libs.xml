@@ -380,6 +380,17 @@
         <dependencies></dependencies>
         <contributed>CodenameOne</contributed>
     </plugin>
+    <plugin fileName="CN1ObjCBridge.cn1lib">
+        <name>Objective-C Bridge</name>
+        <description>Access Objective-C SDKs directly from Java</description>
+        <link>https://github.com/shannah/CN1ObjCBridge</link>
+        <version>1</version>
+        <license>BSD</license>
+        <tags>utilities,ios</tags>
+        <platforms>iOS</platforms>
+        <dependencies></dependencies>
+        <contributed>CodenameOne</contributed>
+    </plugin>
     <plugin fileName="CodenameOne-SFDC-lib.cn1lib">
         <name>SalesForce SDK</name>
         <description>SalesForce SDK for Codename One</description>
