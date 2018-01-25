@@ -395,7 +395,7 @@
         <name>Objective-C Bridge</name>
         <description>Access Objective-C SDKs directly from Java</description>
         <link>https://github.com/shannah/CN1ObjCBridge</link>
-        <version>3</version>
+        <version>4</version>
         <license>BSD</license>
         <tags>utilities,ios</tags>
         <platforms>iOS</platforms>
