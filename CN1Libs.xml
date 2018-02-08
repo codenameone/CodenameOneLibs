@@ -340,7 +340,7 @@
         <name>Codename Sockets Library</name>
         <description>This library was started as an attempt to add sockets support to Codename One. \nSupports iOS, Android, Blackberry, JavaSE and J2ME. </description>
         <link>https://github.com/shannah/CN1Sockets</link>
-        <version>2</version>
+        <version>3</version>
         <license>Unclear</license>
         <tags>utilities,networking</tags>
         <platforms>All</platforms>
