@@ -358,6 +358,17 @@
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
+    <plugin fileName="CN1Webserver.cn1lib">
+        <name>Embedded Webserver Library</name>
+        <description>Add an embedded web server to Codename One apps. </description>
+        <link>https://github.com/shannah/CN1Webserver</link>
+        <version>1</version>
+        <license>MIT License</license>
+        <tags>utilities,networking</tags>
+        <platforms>iOS, Android, Simulator</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
     <plugin fileName="Pubnub-CodeNameOne-3.7.8.cn1lib">
         <name>Codename One Pubnub SDK</name>
         <description>Pubnub SDK for Codename One Apps</description>
