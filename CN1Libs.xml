@@ -4,7 +4,7 @@
         <name>Camera Kit</name>
         <description>Low level camera access API</description>
         <link>https://github.com/codenameone/CameraKitCodenameOne/tree/master</link>
-        <version>1</version>
+        <version>2</version>
         <license>MIT License</license>
         <tags>utilities</tags>
         <platforms>iOS, Android</platforms>
