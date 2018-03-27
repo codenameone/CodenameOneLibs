@@ -230,7 +230,7 @@
         <name>Scandit Codescanner</name>
         <description>This library provides code scanning (QR code and Bar code) using the Scandit SDK.  NOTE: This library requires you to install the iOS and Android native SDKs into your app separately.  See installation instructions on website.</description>
         <link>https://github.com/shannah/cn1-codescan-scandit</link>
-        <version>1</version>
+        <version>2</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>iOS, Android</platforms>
