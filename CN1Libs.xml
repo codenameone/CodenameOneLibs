@@ -132,7 +132,7 @@
         <name>Drag and Drop from the native desktop OS</name>
         <description>Allows the desktop/JavaScript versions to receive files dropped into them</description>
         <link>https://github.com/shannah/cn1-native-data-transfer</link>
-        <version>1</version>
+        <version>2</version>
         <license>Apache 2.0 </license>
         <tags>utilities,ui</tags>
         <platforms>Desktop, JavaScript</platforms>
