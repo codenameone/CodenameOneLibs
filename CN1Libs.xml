@@ -1,10 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+    <plugin fileName="CameraKitCodenameOne.cn1lib">
+        <name>Camera Kit</name>
+        <description>Low level camera access API</description>
+        <link>https://github.com/codenameone/CameraKitCodenameOne/tree/master</link>
+        <version>2</version>
+        <license>MIT License</license>
+        <tags>utilities</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+
+    <plugin fileName="comScore-CodenameOne.cn1lib">
+        <name>comScore Analytics</name>
+        <description>comScore mobile metrix / analytics support for Codename One </description>
+        <link>https://github.com/diamonddevgroup/comScore-CodenameOne</link>
+        <version>1</version>
+        <license>MIT License</license>
+        <tags>analytics</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Diamond Dev Group</contributed>
+    </plugin>
+
+    <plugin fileName="SMSInterceptor.cn1lib">
+        <name>SMSInterceptor</name>
+        <description>Intercept incoming SMS on supported platforms in Codename One apps </description>
+        <link>https://github.com/diamonddevgroup/SMSInterceptor</link>
+        <version>2</version>
+        <license>MIT License</license>
+        <tags>utilities</tags>
+        <platforms>Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Diamond Dev Group</contributed>
+    </plugin>
+
+    <plugin fileName="SMSActivation.cn1lib">
+        <name>SMSActivation</name>
+        <description>Implements the full activation via SMS user signup process</description>
+        <link>https://github.com/codenameone/SMSActivation/</link>
+        <version>6</version>
+        <license>MIT License</license>
+        <tags>utilities</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+
+    <plugin fileName="AnimatedGifSupport.cn1lib">
+        <name>AnimatedGifSupport</name>
+        <description>Support for Animated GIFs </description>
+        <link>https://github.com/codenameone/AnimatedGifSupport</link>
+        <version>3</version>
+        <license>MIT License</license>
+        <tags>design,ui</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+    <plugin fileName="Cn1Caching.cn1lib">
+        <name>Server data caching library</name>
+        <description>Easily enable and control device cache for remote data</description>
+        <link>https://github.com/jegesh/cn1-object-cacher</link>
+        <version>1</version>
+        <license>MIT License</license>
+        <tags>caching,data</tags>
+        <platforms>All</platforms>
+        <dependencies>CN1JSON.cn1lib</dependencies>
+        <contributed>Yaakov Gesher</contributed>
+    </plugin>
+
+    <plugin fileName="BraintreeCodenameOne.cn1lib">
+        <name>BraintreeCodenameOne</name>
+        <description>Provides Braintree (PayPal) API support for Codename One apps</description>
+        <link>https://github.com/codenameone/BraintreeCodenameOne</link>
+        <version>4</version>
+        <license>MIT License</license>
+        <tags>payment,utilities</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+
+    <plugin fileName="FingerprintScanner.cn1lib">
+        <name>FingerprintScanner</name>
+        <description>Fingerprint/TouchID support</description>
+        <link>https://github.com/codenameone/FingerprintScanner</link>
+        <version>4</version>
+        <license>MIT License</license>
+        <tags>utilities</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+
+    <plugin fileName="Helper.cn1lib">
+        <name>CN1-Helper</name>
+        <description>A Helper library for basic styling with code in Codename One. This eliminates the need to have endless UIID in your GUI builder</description>
+        <link>https://github.com/diamondobama/cn1-Helper</link>
+        <version>4</version>
+        <license>MIT License</license>
+        <tags>styling,uiid,design,ui</tags>
+        <platforms>iOS, Android, Javascript, UWP, Simulator, RIM, J2ME</platforms>
+        <dependencies></dependencies>
+        <contributed>Diamond Dev Group</contributed>
+    </plugin>
+    <plugin fileName="IntercomSupport-no-push.cn1lib">
+        <name>Intercom Support</name>
+        <description>Adds support for integrating intercom.io for customer support and cross screen insight</description>
+        <link>https://github.com/codenameone/IntercomSupport/</link>
+        <version>1</version>
+        <license>GPL+Classpath Exception</license>
+        <tags>utilities,analytics</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+    <plugin fileName="SSLCertificateFingerprint.cn1lib">
+        <name>SSL Certificate Fingerprint</name>
+        <description>Checks that the certificate of a server matches a specific value</description>
+        <link>https://github.com/codenameone/SSLCertificateFingerprint/tree/master</link>
+        <version>1</version>
+        <license>GPL+Classpath Exception</license>
+        <tags>utilities,networking</tags>
+        <platforms>Desktop, iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+    <plugin fileName="cn1-native-data-transfer-lib.cn1lib">
+        <name>Drag and Drop from the native desktop OS</name>
+        <description>Allows the desktop/JavaScript versions to receive files dropped into them</description>
+        <link>https://github.com/shannah/cn1-native-data-transfer</link>
+        <version>2</version>
+        <license>Apache 2.0 </license>
+        <tags>utilities,ui</tags>
+        <platforms>Desktop, JavaScript</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
+    <plugin fileName="kotlin-runtime.cn1lib">
+        <name>Kotlin support for Codename One</name>
+        <description>Adds support for Kotlin in Codename One apps. (Requires IntelliJ IDEA)</description>
+        <link>https://github.com/shannah/codenameone-kotlin</link>
+        <version>1</version>
+        <license>Apache 2.0 </license>
+        <tags>utilities,languages</tags>
+        <platforms>iOS, Android, Javascript, UWP, Simulator, RIM, J2ME</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
     <plugin fileName="AdmobFullScreen.cn1lib">
         <name>Admob Fullscreen Ads</name>
         <description>Admob Fullscreen Ads library, supports iOS and Android</description>
-        <link>https://github.com/chen-fishbein/admobfullscreen-codenameone</link>
-        <version>1</version>
+        <link>https://github.com/shannah/admobfullscreen-codenameone</link>
+        <version>2</version>
         <license>Apache 2.0 </license>
         <tags>ads</tags>
         <platforms>iOS, Android</platforms>
@@ -44,11 +194,33 @@
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
+    <plugin fileName="GenericWebserviceClient.cn1lib">
+        <name>Generic Webservice Client</name>
+        <description>Web service client for connecting to a RESTful web service.</description>
+        <link>https://github.com/shannah/cn1-generic-webservice-client</link>
+        <version>1</version>
+        <license>Apache 2.0</license>
+        <tags>database,webservice,networking</tags>
+        <platforms>iOS, Android, Javascript, UWP, Simulator, RIM, J2ME</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
+    <plugin fileName="cn1-xataface.cn1lib">
+        <name>CN1Xataface</name>
+        <description>Web service client for connecting to a MySQL back-end.</description>
+        <link>https://github.com/shannah/cn1-xataface</link>
+        <version>1</version>
+        <license>Apache 2.0</license>
+        <tags>database,webservice,networking</tags>
+        <platforms>iOS, Android, Javascript, UWP, Simulator, RIM, J2ME</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
     <plugin fileName="CN1Flurry.cn1lib">
         <name>Flurry Library</name>
         <description>This plugin supports flurry analytics and Interstitial Ads (Full Screen Ads) \nThe library is implemented for Android and iOS.</description>
         <link>https://github.com/chen-fishbein/flurry-codenameone</link>
-        <version>2</version>
+        <version>3</version>
         <license>Apache 2.0 </license>
         <tags>ads, analytics</tags>
         <platforms>iOS, Android,</platforms>
@@ -64,6 +236,28 @@
         <tags>utilities</tags>
         <platforms>iOS, Android, Blackberry</platforms>
         <dependencies></dependencies>
+        <contributed>CodenameOne</contributed>
+    </plugin>
+    <plugin fileName="cn1-codescan-scandit.cn1lib">
+        <name>Scandit Codescanner</name>
+        <description>This library provides code scanning (QR code and Bar code) using the Scandit SDK.  NOTE: This library requires you to install the iOS and Android native SDKs into your app separately.  See installation instructions on website.</description>
+        <link>https://github.com/shannah/cn1-codescan-scandit</link>
+        <version>3</version>
+        <license>Apache 2.0 </license>
+        <tags>utilities</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies>CN1ObjCBridge.cn1lib</dependencies>
+        <contributed>CodenameOne</contributed>
+    </plugin>
+    <plugin fileName="QRScanner.cn1lib">
+        <name>QRScanner</name>
+        <description>CN1Lib for using ZBar scanning in Android apps.  This removes the reliance on an external scanning app to be installed on Android. Important: Currently requires Android API level 21 which might cause issues</description>
+        <link>https://github.com/littlemonkeyltd/QRScanner</link>
+        <version>3</version>
+        <license>MIT License</license>
+        <tags>utilities</tags>
+        <platforms>Android</platforms>
+        <dependencies>cn1-codescan.cn1lib</dependencies>
         <contributed>CodenameOne</contributed>
     </plugin>
     <plugin fileName="ZipSupport.cn1lib">
@@ -97,7 +291,7 @@
         <tags>utilities,networking</tags>
         <platforms>iOS, Android</platforms>
         <dependencies></dependencies>
-        <contributed>Fabricio Cabeca (from Pmovil)</contributed> 
+        <contributed>Fabricio Cabeca (from Pmovil)</contributed>
     </plugin>
     <plugin fileName="parse4cn1.cn1lib">
         <name>Parse4CN1</name>
@@ -145,9 +339,9 @@
     </plugin>
     <plugin fileName="CN1Calendar.cn1lib">
         <name>Calendar Library</name>
-        <description>Allows Codename One applications to use the device calendar, </description>
+        <description>Allows Codename One applications to use the device calendar. </description>
         <link>https://github.com/chen-fishbein/codenameone-calendar</link>
-        <version>1</version>
+        <version>2</version>
         <license>GPL+Classpath Exception</license>
         <tags>utilities</tags>
         <platforms>iOS, Android</platforms>
@@ -158,7 +352,7 @@
         <name>Codename Sockets Library</name>
         <description>This library was started as an attempt to add sockets support to Codename One. \nSupports iOS, Android, Blackberry, JavaSE and J2ME. </description>
         <link>https://github.com/shannah/CN1Sockets</link>
-        <version>1</version>
+        <version>5</version>
         <license>Unclear</license>
         <tags>utilities,networking</tags>
         <platforms>All</platforms>
@@ -169,10 +363,21 @@
         <name>Codename One WebSockets Library</name>
         <description>This library adds WebSocket client support for Codename One apps. </description>
         <link>https://github.com/shannah/cn1-websockets</link>
+        <version>10</version>
+        <license>MIT License</license>
+        <tags>utilities,networking</tags>
+        <platforms>iOS, Android, Javascript, Simulator, UWP</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
+    <plugin fileName="CN1Webserver.cn1lib">
+        <name>Embedded Webserver Library</name>
+        <description>Add an embedded web server to Codename One apps. </description>
+        <link>https://github.com/shannah/CN1Webserver</link>
         <version>1</version>
         <license>MIT License</license>
         <tags>utilities,networking</tags>
-        <platforms>iOS, Android, Javascript, Simulator</platforms>
+        <platforms>iOS, Android, Simulator</platforms>
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
@@ -202,10 +407,21 @@
         <name>BouncyCastle SDK</name>
         <description>Bouncy Castle Crypto API for Codename One</description>
         <link>https://github.com/chen-fishbein/bouncy-castle-codenameone-lib</link>
-        <version>1</version>
+        <version>2</version>
         <license>GPL+Classpath Exception</license>
         <tags>security</tags>
         <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>CodenameOne</contributed>
+    </plugin>
+    <plugin fileName="CN1ObjCBridge.cn1lib">
+        <name>Objective-C Bridge</name>
+        <description>Access Objective-C SDKs directly from Java</description>
+        <link>https://github.com/shannah/CN1ObjCBridge</link>
+        <version>4</version>
+        <license>BSD</license>
+        <tags>utilities,ios</tags>
+        <platforms>iOS</platforms>
         <dependencies></dependencies>
         <contributed>CodenameOne</contributed>
     </plugin>
@@ -235,7 +451,7 @@
         <name>Codename One JSON Library</name>
         <description>A library to read and write JSON in Codename One</description>
         <link>https://github.com/shannah/CN1JSON</link>
-        <version>2</version>
+        <version>4</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>All</platforms>
@@ -255,9 +471,9 @@
     </plugin>
     <plugin fileName="GoogleMaps.cn1lib">
         <name>Codename One Google Native Maps Support</name>
-        <description>Allows Codename One developers to embed native Google Maps on iOS/Android or fallback to Codename One\n MapComponent on other platforms</description>
+        <description>Allows Codename One developers to embed native Google Maps on iOS, Android, and Javascript.  Uses Google maps in BrowserComponent on simulator and falls back to Codename One\n MapComponent on UWP.</description>
         <link>https://github.com/codenameone/codenameone-google-maps</link>
-        <version>3</version>
+        <version>35</version>
         <license>Apache 2.0 </license>
         <tags>utilities,maps</tags>
         <platforms>iOS, Android, Javascript</platforms>
@@ -268,7 +484,7 @@
         <name>sensors-codenameone</name>
         <description>Sensors library for Codename One, implemented on Android and iOS</description>
         <link>https://github.com/chen-fishbein/sensors-codenameone</link>
-        <version>2</version>
+        <version>3</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>iOS, Android</platforms>
@@ -279,12 +495,34 @@
         <name>bluetoothle-codenameone</name>
         <description>Bluethooth LE Library for Codename One apps</description>
         <link>https://github.com/chen-fishbein/bluetoothle-codenameone</link>
-        <version>2</version>
+        <version>5</version>
         <license>MIT License</license>
         <tags>utilities,networking</tags>
         <platforms>iOS, Android</platforms>
         <dependencies>CN1JSON.cn1lib</dependencies>
         <contributed>CodenameOne</contributed>
+    </plugin>
+    <plugin fileName="CN1FontBox.cn1lib">
+        <name>CN1FontBox</name>
+        <description>Codename One Port of FontBox.  Provides TTF font support with added features like stroking, filling, scaling, transforming, etc...</description>
+        <link>https://github.com/shannah/CN1FontBox</link>
+        <version>5</version>
+        <license>MIT License</license>
+        <tags>fonts,ui</tags>
+        <platforms>iOS, Android, Javascript, UWP, Simulator</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
+    <plugin fileName="CN1FileChooser.cn1lib">
+        <name>cn1-filechooser</name>
+        <description>Adds support for a native file chooser for opening files of any specified set of extensions and/or mimetypes.</description>
+        <link>https://github.com/shannah/cn1-filechooser</link>
+        <version>2</version>
+        <license>MIT License</license>
+        <tags>utilities,storage</tags>
+        <platforms>iOS, Android, Javascript, UWP, Simulator</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
     </plugin>
     <plugin fileName="CN1GeoViz.cn1lib">
         <name>Codename One GeoViz Library</name>
@@ -323,11 +561,22 @@
         <name>Codename One Cloudinary Support</name>
         <description>This library adds support for the Cloudinary image management service to Codename One apps. The library itself is a direct port of the Cloudinary Java SDK.</description>
         <link>https://github.com/shannah/cloudinary-codenameone</link>
-        <version>1</version>
+        <version>3</version>
         <license>MIT</license>
         <tags>utilities</tags>
         <platforms>All</platforms>
         <dependencies>BouncyCastleCN1Lib.cn1lib</dependencies>
         <contributed>Steve Hannah</contributed>
+    </plugin>
+    <plugin fileName="QRMaker.cn1lib">
+        <name>QR Code generator</name>
+        <description>A partial port of Zxing for j2me to CN1 for generating QR code </description>
+        <link>https://github.com/rwanghk/QRMaker</link>
+        <version>1</version>
+        <license>Apache 2.0 </license>
+        <tags>utilities</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Roy Wang</contributed>
     </plugin>
 </plugins>
