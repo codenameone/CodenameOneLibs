@@ -190,7 +190,18 @@
         <version>2</version>
         <license>Apache 2.0 </license>
         <tags>storage,database</tags>
-        <platforms>iOS, Android, Javascript</platforms>
+        <platforms>iOS, Android, Javascript, Simulator</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
+    <plugin fileName="CN1Spatialite.cn1lib">
+        <name>SpatiaLite Database</name>
+        <description>Provides SpatiaLite database support for Codename One.</description>
+        <link>https://github.com/shannah/cn1-spatialite</link>
+        <version>2</version>
+        <license>MPL Tri-License</license>
+        <tags>storage,database</tags>
+        <platforms>iOS, Android, Simulator</platforms>
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
