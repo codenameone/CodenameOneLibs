@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+    
+    <plugin fileName="NativeLogsReader.cn1lib">
+        <name>Native Logs Reader</name>
+        <description>A small library to get easily the native logs of Android and iOS.</description>
+        <link>https://github.com/jsfan3/CN1Libs-NativeLogsReader</link>
+        <version>1</version>
+        <license>CC0 - Public Domain</license>
+        <tags>utilities</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Francesco Galgani</contributed>
+    </plugin>
+    
     <plugin fileName="Device.cn1lib">
         <name>Device</name>
         <description>A small library to get the market (consumer-friendly) name, model, and manufacturer of devices.</description>
