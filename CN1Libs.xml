@@ -377,7 +377,7 @@
         <name>Calendar Library</name>
         <description>Allows Codename One applications to use the device calendar. </description>
         <link>https://github.com/chen-fishbein/codenameone-calendar</link>
-        <version>2</version>
+        <version>3</version>
         <license>GPL+Classpath Exception</license>
         <tags>utilities</tags>
         <platforms>iOS, Android</platforms>
