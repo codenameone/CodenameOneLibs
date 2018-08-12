@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
     
+    <plugin fileName="SendGridLib.cn1lib">
+        <name>SendGrid Lib</name>
+        <description>Allows sending emails via the SendGrid cloud API</description>
+        <link>https://github.com/codenameone/SendGridLib</link>
+        <version>1</version>
+        <license>MIT</license>
+        <tags>utilities</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+
     <plugin fileName="NativeLogsReader.cn1lib">
         <name>Native Logs Reader</name>
         <description>A small library to get easily the native logs of Android and iOS.</description>
