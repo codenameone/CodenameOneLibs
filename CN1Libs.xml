@@ -112,7 +112,7 @@
         <name>BraintreeCodenameOne</name>
         <description>Provides Braintree (PayPal) API support for Codename One apps</description>
         <link>https://github.com/codenameone/BraintreeCodenameOne</link>
-        <version>4</version>
+        <version>5</version>
         <license>MIT License</license>
         <tags>payment,utilities</tags>
         <platforms>iOS, Android</platforms>
