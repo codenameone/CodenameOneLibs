@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
     
+    <plugin fileName="CrispCodenameOneSDK.cn1lib">
+        <name>Crisp Codename One SDK</name>
+        <description>Integrate Crisp chat and CRM into your app</description>
+        <link>https://github.com/codenameone/CrispCodenameOneSDK</link>
+        <version>1</version>
+        <license>MIT</license>
+        <tags>utilities,analytics</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+
     <plugin fileName="SendGridLib.cn1lib">
         <name>SendGrid Lib</name>
         <description>Allows sending emails via the SendGrid cloud API</description>
