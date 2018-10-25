@@ -236,7 +236,7 @@
         <name>Codename One Data Access Library</name>
         <description>Provides a Data access layer for SQLite databases in Codename One.</description>
         <link>https://github.com/shannah/cn1-data-access-lib</link>
-        <version>2</version>
+        <version>3</version>
         <license>Apache 2.0 </license>
         <tags>storage,database</tags>
         <platforms>iOS, Android, Javascript, Simulator</platforms>
