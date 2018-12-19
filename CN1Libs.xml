@@ -89,7 +89,7 @@
         <name>SMSActivation</name>
         <description>Implements the full activation via SMS user signup process</description>
         <link>https://github.com/codenameone/SMSActivation/</link>
-        <version>6</version>
+        <version>7</version>
         <license>MIT License</license>
         <tags>utilities</tags>
         <platforms>All</platforms>
