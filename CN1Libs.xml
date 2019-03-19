@@ -53,10 +53,10 @@
         <name>Camera Kit</name>
         <description>Low level camera access API</description>
         <link>https://github.com/codenameone/CameraKitCodenameOne/tree/master</link>
-        <version>2</version>
+        <version>3</version>
         <license>MIT License</license>
         <tags>utilities</tags>
-        <platforms>iOS, Android</platforms>
+        <platforms>iOS, Android, Simulator, Javascript</platforms>
         <dependencies></dependencies>
         <contributed>Codename One</contributed>
     </plugin>
