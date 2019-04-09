@@ -441,6 +441,17 @@
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
+    <plugin fileName="CN1MP3Encoder.cn1lib">
+        <name>Codename One MP3 Encoder</name>
+        <description>Adds support for recording MP3 audio in simulator</description>
+        <link>https://github.com/shannah/CN1MP3Encoder</link>
+        <version>16</version>
+        <license>MIT License</license>
+        <tags>utilities,media</tags>
+        <platforms>Simulator</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
     <plugin fileName="CN1Webserver.cn1lib">
         <name>Embedded Webserver Library</name>
         <description>Add an embedded web server to Codename One apps. </description>
