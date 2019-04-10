@@ -291,7 +291,7 @@
         <name>Codename One CodeScanner Library</name>
         <description>This library provides code scanning (QR code and Bar code) support for Codename One</description>
         <link>https://github.com/codenameone/cn1-codescan</link>
-        <version>3</version>
+        <version>4</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>iOS, Android, Blackberry</platforms>
