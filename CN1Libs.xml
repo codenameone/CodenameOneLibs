@@ -434,7 +434,7 @@
         <name>Codename One WebSockets Library</name>
         <description>This library adds WebSocket client support for Codename One apps. </description>
         <link>https://github.com/shannah/cn1-websockets</link>
-        <version>17</version>
+        <version>18</version>
         <license>MIT License</license>
         <tags>utilities,networking</tags>
         <platforms>iOS, Android, Javascript, Simulator, UWP</platforms>
