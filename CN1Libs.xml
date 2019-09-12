@@ -661,4 +661,15 @@
         <dependencies></dependencies>
         <contributed>Roy Wang</contributed>
     </plugin>
+    <plugin fileName="ZXing-CN1.cn1lib">
+        <name>ZXing Library</name>
+        <description>A port of ZXing Barcode scanner / generator to CN1</description>
+        <link>https://github.com/rwanghk/ZXing-CN1</link>
+        <version>1</version>
+        <license>Apache 2.0 </license>
+        <tags>utilities</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Roy Wang</contributed>
+    </plugin>
 </plugins>
