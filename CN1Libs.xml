@@ -37,6 +37,18 @@
         <contributed>Francesco Galgani</contributed>
     </plugin>
     
+    <plugin fileName="VideoOptimizerCN1Lib.cn1lib">
+        <name>Video Optimizer</name>
+        <description>It allows to get info about a video, get a preview image of a video and optimize a video for fast upload.</description>
+        <link>https://github.com/jsfan3/CN1Libs-VideoOptimizer/</link>
+        <version>1</version>
+        <license>CC0 + LGPL v.3</license>
+        <tags>utilities</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Francesco Galgani</contributed>
+    </plugin>
+    
     <plugin fileName="Device.cn1lib">
         <name>Device</name>
         <description>A small library to get the market (consumer-friendly) name, model, and manufacturer of devices.</description>
