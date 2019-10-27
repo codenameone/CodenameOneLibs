@@ -49,6 +49,18 @@
         <contributed>Francesco Galgani</contributed>
     </plugin>
     
+    <plugin fileName="WowzaCN1Lib.cn1lib">
+        <name>Wowza Live Streaming Events</name>
+        <description>The purpose of this CN1Lib is to add live streaming capabilities to iOS and Android Codename One apps, hiding all the complexities and reducing the effort.</description>
+        <link>https://github.com/jsfan3/CN1Libs-WowzaLiveStreaming/</link>
+        <version>1</version>
+        <license>Mixed</license>
+        <tags>utilities</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Francesco Galgani</contributed>
+    </plugin>
+    
     <plugin fileName="Device.cn1lib">
         <name>Device</name>
         <description>A small library to get the market (consumer-friendly) name, model, and manufacturer of devices.</description>
