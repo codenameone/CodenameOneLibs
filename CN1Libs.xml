@@ -39,7 +39,7 @@
     
     <plugin fileName="VideoOptimizerCN1Lib.cn1lib">
         <name>Video Optimizer</name>
-        <description>It allows to get info about a video, get a preview image of a video and optimize a video for fast upload.</description>
+        <description>It allows to get info about a video (duration, bitrate, size), get a preview image of a video and optimize a video for fast upload. It can also be used to check if a given file is a supported video.</description>
         <link>https://github.com/jsfan3/CN1Libs-VideoOptimizer/</link>
         <version>2</version>
         <license>CC0 + LGPL v.3</license>
