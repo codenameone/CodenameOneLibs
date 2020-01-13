@@ -65,7 +65,7 @@
         <name>Device</name>
         <description>A small library to get the market (consumer-friendly) name, model, and manufacturer of devices.</description>
         <link>https://github.com/diamonddevgroup/CN1-Device</link>
-        <version>3</version>
+        <version>4</version>
         <license>MIT License</license>
         <tags>utilities</tags>
         <platforms>iOS, Android</platforms>
