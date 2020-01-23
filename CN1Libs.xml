@@ -12,6 +12,18 @@
         <dependencies></dependencies>
         <contributed>Codename One</contributed>
     </plugin>
+    
+    <plugin fileName="CN1AppleSignIn.cn1lib">
+        <name>Sign-in with Apple Support</name>
+        <description>Add sign-in with apple support</description>
+        <link>https://github.com/shannah/cn1-applesignin</link>
+        <version>1</version>
+        <license>GPL+CE</license>
+        <tags>login,oauth</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
 
     <plugin fileName="SendGridLib.cn1lib">
         <name>SendGrid Lib</name>
