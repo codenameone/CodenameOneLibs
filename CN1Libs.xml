@@ -36,16 +36,28 @@
         <dependencies></dependencies>
         <contributed>Codename One</contributed>
     </plugin>
-
-    <plugin fileName="SendGridLib.cn1lib">
-        <name>SendGrid Lib</name>
-        <description>Allows sending emails via the SendGrid cloud API</description>
-        <link>https://github.com/codenameone/SendGridLib</link>
-        <version>3</version>
-        <license>MIT</license>
-        <tags>utilities</tags>
+    
+    <plugin fileName="CodeRAD.cn1lib">
+        <name>CodeRAD</name>
+        <description>MVC, Rapid  Application Development library </description>
+        <link>https://github.com/shannah/CodeRAD</link>
+        <version>1</version>
+        <license>Apache 2.0</license>
+        <tags>utilities,ui,mvc</tags>
         <platforms>All</platforms>
         <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+
+    <plugin fileName="RADChatRoom.cn1lib">
+        <name>RAD Chat Room</name>
+        <description>A full featured Chat Room UI Component</description>
+        <link>https://github.com/shannah/RADChatRoom</link>
+        <version>1</version>
+        <license>Apache 2.0</license>
+        <tags>ui,chat</tags>
+        <platforms>All</platforms>
+        <dependencies>CodeRAD.cn1lib</dependencies>
         <contributed>Codename One</contributed>
     </plugin>
 
