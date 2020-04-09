@@ -483,7 +483,7 @@
         <name>CN1 Native Controls</name>
         <description>Includes a native select widget that is useful in the Javascript port. May be expanded to include other native widgets.</description>
         <link>https://github.com/shannah/cn1-native-controls</link>
-        <version>3</version>
+        <version>4</version>
         <license>MIT license</license>
         <tags>ui</tags>
         <platforms>All</platforms>
