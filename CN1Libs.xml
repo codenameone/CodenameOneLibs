@@ -41,7 +41,7 @@
         <name>CodeRAD</name>
         <description>MVC, Rapid  Application Development library </description>
         <link>https://github.com/shannah/CodeRAD</link>
-        <version>4</version>
+        <version>5</version>
         <license>Apache 2.0</license>
         <tags>utilities,ui,mvc</tags>
         <platforms>All</platforms>
@@ -53,7 +53,7 @@
         <name>RAD Chat Room</name>
         <description>A full featured Chat Room UI Component</description>
         <link>https://github.com/shannah/RADChatRoom</link>
-        <version>2</version>
+        <version>3</version>
         <license>Apache 2.0</license>
         <tags>ui,chat</tags>
         <platforms>All</platforms>
