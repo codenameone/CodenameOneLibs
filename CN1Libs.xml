@@ -196,7 +196,7 @@
         <name>FingerprintScanner</name>
         <description>Fingerprint/TouchID support</description>
         <link>https://github.com/codenameone/FingerprintScanner</link>
-        <version>7</version>
+        <version>8</version>
         <license>MIT License</license>
         <tags>utilities</tags>
         <platforms>iOS, Android</platforms>
