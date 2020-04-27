@@ -25,6 +25,18 @@
         <contributed>Codename One</contributed>
     </plugin>
     
+    <plugin fileName="CN1JailbreakDetect.cn1lib">
+        <name>CN1JailbreakDetect</name>
+        <description>Detect if device is rooted/jailbroken</description>
+        <link>https://github.com/shannah/CN1JailbreakDetect</link>
+        <version>1</version>
+        <license>Apache 2.0</license>
+        <tags>security</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Codename One</contributed>
+    </plugin>
+    
     <plugin fileName="CN1Asciidoctor.cn1lib">
         <name>Codename One Asciidoctor</name>
         <description>Asciidoc to HTML5 converter for Codename One</description>
