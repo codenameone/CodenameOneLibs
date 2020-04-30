@@ -65,7 +65,7 @@
         <name>RAD Chat Room</name>
         <description>A full featured Chat Room UI Component</description>
         <link>https://github.com/shannah/RADChatRoom</link>
-        <version>7</version>
+        <version>8</version>
         <license>Apache 2.0</license>
         <tags>ui,chat</tags>
         <platforms>All</platforms>
