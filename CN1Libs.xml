@@ -5,7 +5,7 @@
         <name>Crisp Codename One SDK</name>
         <description>Integrate Crisp chat and CRM into your app</description>
         <link>https://github.com/codenameone/CrispCodenameOneSDK</link>
-        <version>5</version>
+        <version>6</version>
         <license>MIT</license>
         <tags>utilities,analytics</tags>
         <platforms>All</platforms>
