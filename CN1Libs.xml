@@ -623,6 +623,17 @@
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
+    <plugin fileName="CN1ImageMap.cn1lib">
+        <name>CN1Image Map component</name>
+        <description>An image map component for rendering an image with clickable areas.</description>
+        <link>https://github.com/shannah/CN1ImageMap</link>
+        <version>1</version>
+        <license>Apache 2.0 </license>
+        <tags>ui</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
     <plugin fileName="CN1JTar.cn1lib">
         <name>Codename One Tar Library</name>
         <description>A library for reading and writing TAR files in Codename One</description>
