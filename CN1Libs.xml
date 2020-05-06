@@ -612,6 +612,17 @@
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
+    <plugin fileName="CN1HTMLParser.cn1lib">
+        <name>Codename One HTML Parser</name>
+        <description>A library for parsing HTML to standard XML DOM</description>
+        <link>https://github.com/shannah/CN1HTMLParser</link>
+        <version>1</version>
+        <license>Apache 2.0 </license>
+        <tags>utilities</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
     <plugin fileName="CN1JTar.cn1lib">
         <name>Codename One Tar Library</name>
         <description>A library for reading and writing TAR files in Codename One</description>
