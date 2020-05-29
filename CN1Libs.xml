@@ -524,6 +524,17 @@
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
+    <plugin fileName="CN1MediaTools.cn1lib">
+        <name>Codename One Media Utilies</name>
+        <description>Utility classes for working with media</description>
+        <link>https://github.com/shannah/CN1MediaTools</link>
+        <version>1</version>
+        <license>Apache</license>
+        <tags>utilities,media</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
     <plugin fileName="CN1Webserver.cn1lib">
         <name>Embedded Webserver Library</name>
         <description>Add an embedded web server to Codename One apps. </description>
