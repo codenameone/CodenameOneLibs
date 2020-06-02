@@ -528,7 +528,7 @@
         <name>Codename One Media Utilies</name>
         <description>Utility classes for working with media</description>
         <link>https://github.com/shannah/CN1MediaTools</link>
-        <version>1</version>
+        <version>2</version>
         <license>Apache</license>
         <tags>utilities,media</tags>
         <platforms>All</platforms>
