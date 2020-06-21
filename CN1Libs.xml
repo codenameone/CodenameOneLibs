@@ -513,6 +513,17 @@
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
+    <plugin fileName="IRBlaster.cn1lib">
+        <name>IRBlaster</name>
+        <description>Provides API to use the IR (Infrared) Emitter on Selected Devices</description>
+        <link>https://github.com/shannah/IRBlaster</link>
+        <version>1</version>
+        <license>Apache License</license>
+        <tags>utilities</tags>
+        <platforms>Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+    </plugin>
     <plugin fileName="CN1MP3Encoder.cn1lib">
         <name>Codename One MP3 Encoder</name>
         <description>Adds support for recording MP3 audio in simulator</description>
