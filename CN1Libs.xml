@@ -705,7 +705,7 @@
         <name>bluetoothle-codenameone</name>
         <description>Bluethooth LE Library for Codename One apps</description>
         <link>https://github.com/codenameone/bluetoothle-codenameone</link>
-        <version>6</version>
+        <version>7</version>
         <license>MIT License</license>
         <tags>utilities,networking</tags>
         <platforms>iOS, Android</platforms>
