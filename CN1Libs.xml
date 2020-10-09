@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+    <plugin fileName="ProgressUploader.cn1lib">
+        <name>Multipart Upload text file request and track upload progress</name>
+        <description>This lib will work as is but it's more of an example of how this can be achieved so that you can implement your own code. For example you might want to upload non-text (binary) files instead of text files. Or you might wat to upload files + parameters (there is a commented example in the code)</description>
+        <link>https://github.com/javieranton-zz/ProgressUploader</link>
+        <version>1</version>
+        <license>MIT</license>
+        <tags>progress,upload</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Javier Anton</contributed>
+    </plugin>
+    
+    <plugin fileName="PhotoCropper.cn1lib">
+        <name>Form to crop and resize your images</name>
+        <description>Crop and resize your images whatsapp style. Ensures final cropped images have equal width and heights. Resizes to your desired dimensions. Allows for a minimum image size</description>
+        <link>https://github.com/javieranton-zz/PhotoCropper</link>
+        <version>1</version>
+        <license>MIT</license>
+        <tags>images,crop,resize,photo</tags>
+        <platforms>iOS, Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Javier Anton</contributed>
+    </plugin>
     
     <plugin fileName="PhotoCropper.cn1lib">
         <name>Form to crop and resize your images</name>
