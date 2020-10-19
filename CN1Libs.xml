@@ -24,18 +24,6 @@
         <contributed>Javier Anton</contributed>
     </plugin>
     
-    <plugin fileName="PhotoCropper.cn1lib">
-        <name>Form to crop and resize your images</name>
-        <description>Crop and resize your images whatsapp style. Ensures final cropped images have equal width and heights. Resizes to your desired dimensions. Allows for a minimum image size</description>
-        <link>https://github.com/javieranton-zz/PhotoCropper</link>
-        <version>1</version>
-        <license>MIT</license>
-        <tags>images,crop,resize,photo</tags>
-        <platforms>iOS, Android</platforms>
-        <dependencies></dependencies>
-        <contributed>Javier Anton</contributed>
-    </plugin>
-    
     <plugin fileName="CrispCodenameOneSDK.cn1lib">
         <name>Crisp Codename One SDK</name>
         <description>Integrate Crisp chat and CRM into your app</description>
