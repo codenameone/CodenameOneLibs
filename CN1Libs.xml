@@ -299,7 +299,7 @@
         <name>Kotlin support for Codename One</name>
         <description>Adds support for Kotlin in Codename One apps. (Requires IntelliJ IDEA)</description>
         <link>https://github.com/shannah/codenameone-kotlin</link>
-        <version>2</version>
+        <version>3</version>
         <license>Apache 2.0 </license>
         <tags>utilities,languages</tags>
         <platforms>iOS, Android, Javascript, UWP, Simulator, RIM, J2ME</platforms>
