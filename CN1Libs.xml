@@ -650,7 +650,7 @@
         <name>Codename One JSON Library</name>
         <description>A library to read and write JSON in Codename One</description>
         <link>https://github.com/shannah/CN1JSON</link>
-        <version>4</version>
+        <version>5</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>All</platforms>
@@ -716,7 +716,7 @@
         <name>bluetoothle-codenameone</name>
         <description>Bluethooth LE Library for Codename One apps</description>
         <link>https://github.com/codenameone/bluetoothle-codenameone</link>
-        <version>7</version>
+        <version>8</version>
         <license>MIT License</license>
         <tags>utilities,networking</tags>
         <platforms>iOS, Android</platforms>
