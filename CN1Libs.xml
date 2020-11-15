@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+    <plugin fileName="CN1LinguistLib.cn1lib">
+        <name>Linguist</name>
+        <description>Use this library to internationalize/localize your application quickly. It must be use with the CodenameOne Linguist desktop software.</description>
+        <link>https://github.com/ericlight/CN1Linguist</link>
+        <version>1</version>
+        <license>MIT</license>
+        <tags>internationalization, localization, translation, translate, languages, utilities</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Eric Dodji Gbofu</contributed>
+    </plugin>
     <plugin fileName="ProgressUploader.cn1lib">
         <name>Multipart Upload text file request and track upload progress</name>
         <description>This lib will work as is but it's more of an example of how this can be achieved so that you can implement your own code. For example you might want to upload non-text (binary) files instead of text files. Or you might wat to upload files + parameters (there is a commented example in the code)</description>
