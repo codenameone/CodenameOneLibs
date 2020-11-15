@@ -16,7 +16,7 @@
         <name>Form to crop and resize your images</name>
         <description>Crop and resize your images whatsapp style. Ensures final cropped images have equal width and heights. Resizes to your desired dimensions. Allows for a minimum image size</description>
         <link>https://github.com/javieranton-zz/PhotoCropper</link>
-        <version>1</version>
+        <version>2</version>
         <license>MIT</license>
         <tags>images,crop,resize,photo</tags>
         <platforms>iOS, Android</platforms>
@@ -386,7 +386,7 @@
         <name>Codename One CodeScanner Library</name>
         <description>This library provides code scanning (QR code and Bar code) support for Codename One</description>
         <link>https://github.com/codenameone/cn1-codescan</link>
-        <version>6</version>
+        <version>7</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>iOS, Android, Blackberry</platforms>
