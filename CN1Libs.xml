@@ -725,9 +725,9 @@
     </plugin>
     <plugin fileName="CN1Bluetooth.cn1lib">
         <name>bluetoothle-codenameone</name>
-        <description>Bluethooth LE Library for Codename One apps</description>
+        <description>Bluetooth LE Library for Codename One apps</description>
         <link>https://github.com/codenameone/bluetoothle-codenameone</link>
-        <version>8</version>
+        <version>9</version>
         <license>MIT License</license>
         <tags>utilities,networking</tags>
         <platforms>iOS, Android</platforms>
