@@ -87,7 +87,7 @@
         <name>CodeRAD</name>
         <description>MVC, Rapid  Application Development library </description>
         <link>https://github.com/shannah/CodeRAD</link>
-        <version>12</version>
+        <version>13</version>
         <license>Apache 2.0</license>
         <tags>utilities,ui,mvc</tags>
         <platforms>All</platforms>
