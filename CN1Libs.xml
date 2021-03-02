@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
     <plugin fileName="CN1LinguistLib.cn1lib">
+        <name>CN1-Stream</name>
+        <description>Stream API from Java 8 rewritten on iterators for Codename One.</description>
+        <link>https://github.com/diamonddevgroup/CN1-Stream</link>
+        <version>1</version>
+        <license>MIT</license>
+        <tags>utilities</tags>
+        <platforms>All</platforms>
+        <dependencies></dependencies>
+        <contributed>Diamond Dev Group</contributed>
+    </plugin>
+    <plugin fileName="CN1LinguistLib.cn1lib">
         <name>Linguist</name>
         <description>Use this library to internationalize/localize your application quickly. It must be use with the CodenameOne Linguist desktop software.</description>
         <link>https://github.com/ericlight/CN1Linguist</link>
