@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-    <plugin fileName="CN1LinguistLib.cn1lib">
+    <plugin fileName="CN1-Stream.cn1lib">
         <name>CN1-Stream</name>
         <description>Stream API from Java 8 rewritten on iterators for Codename One.</description>
         <link>https://github.com/diamonddevgroup/CN1-Stream</link>
