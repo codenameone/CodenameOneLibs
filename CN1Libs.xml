@@ -722,6 +722,14 @@
         <platforms>iOS, Android, Javascript</platforms>
         <dependencies></dependencies>
         <contributed>CodenameOne</contributed>
+        <maven>
+            <dependency>
+              <groupId>com.codenameone</groupId>
+              <artifactId>googlemaps-lib</artifactId>
+              <version>1.0.1</version>
+              <type>pom</type>
+            </dependency>
+        </maven>
     </plugin>
     <plugin fileName="CN1Sensors.cn1lib">
         <name>sensors-codenameone</name>
