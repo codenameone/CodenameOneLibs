@@ -305,6 +305,25 @@
         <dependencies></dependencies>
         <contributed>Steve Hannah</contributed>
     </plugin>
+    <plugin fileName="app-tracking.cn1lib">
+        <name>Apple AppTrackingTransparency library</name>
+        <description>Thin wrapper around the iOS AppTrackingTransparency API.</description>
+        <link>https://github.com/shannah/cn1-app-tracking</link>
+        <version>1</version>
+        <license>MIT</license>
+        <tags>utilities</tags>
+        <platforms>iOS</platforms>
+        <dependencies></dependencies>
+        <contributed>Steve Hannah</contributed>
+        <maven>
+            <dependency>
+                <groupId>com.codenameone</groupId>
+                <artifactId>app-tracking-lib</artifactId>
+                <version>1.0</version>
+                <type>pom</type>
+            </dependency>
+        </maven>
+    </plugin>
     <plugin fileName="kotlin-runtime.cn1lib">
         <name>Kotlin support for Codename One</name>
         <description>Adds support for Kotlin in Codename One apps. (Requires IntelliJ IDEA)</description>
