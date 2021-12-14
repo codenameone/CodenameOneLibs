@@ -676,17 +676,6 @@
         <dependencies></dependencies>
         <contributed>Bertrand Cirot</contributed>
     </plugin>
-    <plugin fileName="CodenameOneCKeditorComponent.cn1lib">
-        <name>Codename One CKeditor Component</name>
-        <description>A WYSIWYG HTML Editor component for Codename One</description>
-        <link>https://github.com/shannah/cn1-ckeditor</link>
-        <version>2</version>
-        <license>Unclear</license>
-        <tags>ui</tags>
-        <platforms>iOS, Android, Windows Phone, Javascript</platforms>
-        <dependencies></dependencies>
-        <contributed>Steve Hannah</contributed>
-    </plugin>
     <plugin fileName="CN1JSON.cn1lib">
         <name>Codename One JSON Library</name>
         <description>A library to read and write JSON in Codename One</description>
