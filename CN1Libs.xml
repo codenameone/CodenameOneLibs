@@ -259,6 +259,14 @@
         <platforms>iOS, Android</platforms>
         <dependencies></dependencies>
         <contributed>Codename One</contributed>
+        <maven>
+            <dependency>
+                <groupId>com.codenameone</groupId>
+                <artifactId>fingerprint-scanner-lib</artifactId>
+                <version>1.0</version>
+                <type>pom</type>
+            </dependency>
+        </maven>
     </plugin>
 
     <plugin fileName="Helper.cn1lib">
