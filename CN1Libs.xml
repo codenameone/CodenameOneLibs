@@ -253,7 +253,7 @@
         <name>FingerprintScanner</name>
         <description>Fingerprint/TouchID support</description>
         <link>https://github.com/codenameone/FingerprintScanner</link>
-        <version>13</version>
+        <version>14</version>
         <license>MIT License</license>
         <tags>utilities</tags>
         <platforms>iOS, Android</platforms>
@@ -263,7 +263,7 @@
             <dependency>
                 <groupId>com.codenameone</groupId>
                 <artifactId>fingerprint-scanner-lib</artifactId>
-                <version>1.0</version>
+                <version>LATEST</version>
                 <type>pom</type>
             </dependency>
         </maven>
