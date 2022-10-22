@@ -346,13 +346,21 @@
     <plugin fileName="AdmobFullScreen.cn1lib">
         <name>Admob Fullscreen Ads</name>
         <description>Admob Fullscreen Ads library, supports iOS and Android</description>
-        <link>https://github.com/shannah/admobfullscreen-codenameone</link>
-        <version>2</version>
+        <link>https://github.com/codenameone/admobfullscreen-codenameone</link>
+        <version>3</version>
         <license>Apache 2.0 </license>
         <tags>ads</tags>
         <platforms>iOS, Android</platforms>
         <dependencies></dependencies>
         <contributed>Ram (creator of yhomework)</contributed>
+        <maven>
+            <dependency>
+                <groupId>com.codenameone</groupId>
+                <artifactId>admob-fullscreen-lib</artifactId>
+                <version>LATEST</version>
+                <type>pom</type>
+            </dependency>
+        </maven>
     </plugin>
     <plugin fileName="CN1StartApp.cn1lib">
         <name>StartApp Fullscreen Ads</name>
