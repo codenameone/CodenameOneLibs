@@ -473,7 +473,7 @@
         <name>QRScanner</name>
         <description>CN1Lib for using ZBar scanning in Android apps.  This removes the reliance on an external scanning app to be installed on Android. Important: Currently requires Android API level 21 which might cause issues</description>
         <link>https://github.com/littlemonkeyltd/QRScanner</link>
-        <version>4</version>
+        <version>5</version>
         <license>MIT License</license>
         <tags>utilities</tags>
         <platforms>Android</platforms>
