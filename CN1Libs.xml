@@ -451,12 +451,20 @@
         <name>Codename One CodeScanner Library</name>
         <description>This library provides code scanning (QR code and Bar code) support for Codename One</description>
         <link>https://github.com/codenameone/cn1-codescan</link>
-        <version>9</version>
+        <version>10</version>
         <license>Apache 2.0 </license>
         <tags>utilities</tags>
         <platforms>iOS, Android, Blackberry</platforms>
         <dependencies></dependencies>
         <contributed>CodenameOne</contributed>
+        <maven>
+            <dependency>
+              <groupId>com.codenameone</groupId>
+              <artifactId>cn1-codescan-lib</artifactId>
+              <version>LATEST</version>
+              <type>pom</type>
+            </dependency>
+        </maven>
     </plugin>
     <plugin fileName="cn1-codescan-scandit.cn1lib">
         <name>Scandit Codescanner</name>
