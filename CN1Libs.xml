@@ -105,7 +105,25 @@
         <dependencies></dependencies>
         <contributed>Codename One</contributed>
     </plugin>
-
+    <plugin fileName="sharedfiles.cn1lib">
+        <name>Shared Files Library</name>
+        <description>API to access shared files.  (Currently Android only)</description>
+        <link>https://github.com/shannah/CodeRAD</link>
+        <version>1</version>
+        <license>Apache 2.0</license>
+        <tags>utilities</tags>
+        <platforms>Android</platforms>
+        <dependencies></dependencies>
+        <maven>
+            <dependency>
+                <groupId>com.codenameone</groupId>
+                <artifactId>sharedfiles-lib</artifactId>
+                <version>LATEST</version>
+                <type>pom</type>
+            </dependency>
+        </maven>
+        <contributed>Codename One</contributed>
+    </plugin>
     <plugin fileName="RADChatRoom.cn1lib">
         <name>RAD Chat Room</name>
         <description>A full featured Chat Room UI Component</description>
