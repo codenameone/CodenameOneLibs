@@ -498,13 +498,21 @@
     <plugin fileName="QRScanner.cn1lib">
         <name>QRScanner</name>
         <description>CN1Lib for using ZBar scanning in Android apps.  This removes the reliance on an external scanning app to be installed on Android. Important: Currently requires Android API level 21 which might cause issues</description>
-        <link>https://github.com/littlemonkeyltd/QRScanner</link>
+        <link>https://github.com/codenameone/QRScanner</link>
         <version>5</version>
         <license>MIT License</license>
         <tags>utilities</tags>
         <platforms>Android</platforms>
         <dependencies>cn1-codescan.cn1lib</dependencies>
         <contributed>CodenameOne</contributed>
+        <maven>
+            <dependency>
+                <groupId>com.codenameone</groupId>
+                <artifactId>qrscanner-lib</artifactId>
+                <version>LATEST</version>
+                <type>pom</type>
+            </dependency>
+        </maven>
     </plugin>
     <plugin fileName="ZipSupport.cn1lib">
         <name>Zip Support</name>
