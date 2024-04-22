@@ -504,6 +504,7 @@
         <tags>utilities</tags>
         <platforms>Android, iOS</platforms>
         <contributed>CodenameOne</contributed>
+        <dependencies></dependencies>
         <maven>
             <dependency>
                 <groupId>com.codenameone</groupId>
