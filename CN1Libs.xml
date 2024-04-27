@@ -62,7 +62,7 @@
         <name>Sign-in with Apple Support</name>
         <description>Add sign-in with apple support</description>
         <link>https://github.com/shannah/cn1-applesignin</link>
-        <version>3</version>
+        <version>4</version>
         <license>GPL+CE</license>
         <tags>login,oauth</tags>
         <platforms>All</platforms>
