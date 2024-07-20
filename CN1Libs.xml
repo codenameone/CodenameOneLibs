@@ -499,7 +499,7 @@
         <name>QRScanner</name>
         <description>CN1Lib scanning barcodes and QR codes in Codename One apps on Android and iOS. </description>
         <link>https://github.com/codenameone/QRScanner</link>
-        <version>9</version>
+        <version>10</version>
         <license>MIT License</license>
         <tags>utilities</tags>
         <platforms>Android, iOS</platforms>
