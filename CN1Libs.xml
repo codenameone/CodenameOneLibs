@@ -834,7 +834,7 @@
         <name>cn1-filechooser</name>
         <description>Adds support for a native file chooser for opening files of any specified set of extensions and/or mimetypes.</description>
         <link>https://github.com/shannah/cn1-filechooser</link>
-        <version>7</version>
+        <version>8</version>
         <license>MIT License</license>
         <tags>utilities,storage</tags>
         <platforms>iOS, Android, Javascript, UWP, Simulator</platforms>
