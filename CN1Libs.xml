@@ -365,7 +365,7 @@
         <name>Admob Fullscreen Ads</name>
         <description>Admob Fullscreen Ads library, supports iOS and Android</description>
         <link>https://github.com/codenameone/admobfullscreen-codenameone</link>
-        <version>5</version>
+        <version>6</version>
         <license>Apache 2.0 </license>
         <tags>ads</tags>
         <platforms>iOS, Android</platforms>
