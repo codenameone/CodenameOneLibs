@@ -915,4 +915,17 @@
         <dependencies></dependencies>
         <contributed>Roy Wang</contributed>
     </plugin>
+
+    <plugin fileName="japanese-offline-tts-hq.cn1lib">
+        <name>Japanese text-to-speech (TTS)</name>
+        <description>Offline Japanese text-to-speech (TTS) for Codename One on Android using Open JTalk with a fine-tuned Mei voice</description>
+        <link>https://github.com/jsfan3/nihonjindes-cn1lib-tts</link>
+        <version>1</version>
+        <license>CC0 + third-party licenses</license>
+        <tags>utilities,tts</tags>
+        <platforms>Android</platforms>
+        <dependencies></dependencies>
+        <contributed>Francesco Galgani</contributed>
+    </plugin>
+
 </plugins>
